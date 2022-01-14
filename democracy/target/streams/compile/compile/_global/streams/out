@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E134] Type Error: /home/savely/scala-miscellanea/democracy/src/main/scala/democracy/MajorityJudgement.scala:121:49 -------------------------------------------------------------------------------------------------------------------[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m121 |[0m          .filter((_:(Candidate, Seq[Grade]))._2 compose Grade.median compose (_ == bestMedianGrade))[0m
+[0m[[0m[31merror[0m] [0m[0m    |                  [31m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |                  None of the overloaded alternatives of [33mmethod[0m [35mcompose[0m in [33mtrait[0m [35mPartialFunction[0m with types[0m
+[0m[[0m[31merror[0m] [0m[0m    |                   [R](k: PartialFunction[R, Int]): PartialFunction[R, democracy.Grade][0m
+[0m[[0m[31merror[0m] [0m[0m    |                   [A](g: A => Int): A => democracy.Grade[0m
+[0m[[0m[31merror[0m] [0m[0m    |                  match arguments (Seq[democracy.Grade] => democracy.Grade)[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

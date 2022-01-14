@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="savely" name="quickcheck.QuickCheckSuite" tests="5" errors="0" failures="5" skipped="0" time="0.388" timestamp="2022-01-12T21:20:26">
+          <properties>
+      <property name="java.specification.version" value="17"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="sun.arch.data.model" value="64"/><property name="bootstrap.mainClass" value="xsbt.boot.Boot"/><property name="sbt.supershell" value="false"/><property name="java.vendor.url" value="https://openjdk.java.net/"/><property name="jline.terminal" value="none"/><property name="sun.boot.library.path" value="/nix/store/bzw0zpgsvrwqp7v2c9flakzd2jvbavaf-openjdk-17.0.1+12/lib/openjdk/lib"/><property name="sun.java.command" value="/home/savely/.local/share/coursier/bin/sbt -Dsbt.supershell=false"/><property name="jdk.debug" value="release"/><property name="sun.stderr.encoding" value="UTF-8"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="java.version.date" value="2021-10-19"/><property name="java.home" value="/nix/store/bzw0zpgsvrwqp7v2c9flakzd2jvbavaf-openjdk-17.0.1+12/lib/openjdk"/><property name="file.separator" value="/"/><property name="java.vm.compressedOopsMode" value="32-bit"/><property name="line.separator" value="
+"/><property name="sun.stdout.encoding" value="UTF-8"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="java.runtime.version" value="17.0.1+12-nixos"/><property name="user.name" value="savely"/><property name="log4j.ignoreTCL" value="true"/><property name="file.encoding" value="UTF-8"/><property name="jnidispatch.path" value="/home/savely/.cache/JNA/temp/jna15401454120884734037.tmp"/><property name="jna.loaded" value="true"/><property name="java.io.tmpdir" value="/tmp"/><property name="java.version" value="17.0.1"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="native.encoding" value="UTF-8"/><property name="java.library.path" value="/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib"/><property name="java.vendor" value="N/A"/><property name="sun.io.unicode.encoding" value="UnicodeLittle"/><property name="java.class.path" value="/home/savely/.local/share/coursier/bin/sbt:/home/savely/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/sbt/sbt-runner/0.2.0/sbt-runner-0.2.0.jar:/home/savely/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/sbt-launch/1.6.1/sbt-launch-1.6.1.jar"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="coursier.mainJar" value="/home/savely/.local/share/coursier/bin/sbt"/><property name="jline.shutdownhook" value="false"/><property name="user.timezone" value="Europe/Moscow"/><property name="coursier.main.arg-0" value="-Dsbt.supershell=false"/><property name="java.vm.specification.version" value="17"/><property name="os.name" value="Linux"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="user.country" value="US"/><property name="sun.cpu.endian" value="little"/><property name="user.home" value="/home/savely"/><property name="user.language" value="en"/><property name="swoval.tmpdir" value="/home/savely/.sbt/1.0"/><property name="jline.esc.timeout" value="0"/><property name="path.separator" value=":"/><property name="os.version" value="5.10.79"/><property name="jna.nosys" value="true"/><property name="java.runtime.name" value="OpenJDK Runtime Environment"/><property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/><property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/><property name="sbt-launch.version" value="1.6.1"/><property name="user.dir" value="/home/savely/quickcheck"/><property name="os.arch" value="amd64"/><property name="java.vm.info" value="mixed mode, sharing"/><property name="java.vm.version" value="17.0.1+12-nixos"/><property name="java.class.version" value="61.0"/>
+    </properties>
+          <testcase classname="quickcheck.QuickCheckSuite" name="Bogus (1) binomial heap does not satisfy properties. (10pts)" time="0.282">
+                      <failure message="java.lang.AssertionError: The properties were not satisfied by the correct binomial heap implementation. Make sure the properties you write are true of heaps. Here is the output of scalacheck when checking your properties on the correct heap implementation.
++ HeapProperties.the minimum of a heap of two elements should be the smallest of the two elements: OK, passed 100 tests.
++ HeapProperties.delete minumum of heap of one element should return an empty heap: OK, passed 100 tests.
++ HeapProperties.inserting the minimal element and then finding it should return the same minimal element: OK, passed 10
+  0 tests.
++ HeapProperties.continually finding and deleting the minimal element of a heap should return a sorted sequence: OK, pas
+  sed 100 tests.
++ HeapProperties.melding a heap containing two low values with a heap containing two high values: OK, passed 100 tests.
+failing seed for HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the source heaps is j7Zd-UtKzAIbzpmKYom49C1ibX0gnG_V7Njp8MgKdIF=
+! HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the sourc
+  e heaps: Falsified after 7 passed tests.
+&gt; ARG_0: List(&quot;Node(-174385362,1,List(Node(-1,0,List())))&quot;)
+&gt; ARG_1: List(&quot;Node(2147483647,0,List())&quot;)
+" type="sbt.ForkMain$ForkError">sbt.ForkMain$ForkError: java.lang.AssertionError: The properties were not satisfied by the correct binomial heap implementation. Make sure the properties you write are true of heaps. Here is the output of scalacheck when checking your properties on the correct heap implementation.
++ HeapProperties.the minimum of a heap of two elements should be the smallest of the two elements: OK, passed 100 tests.
++ HeapProperties.delete minumum of heap of one element should return an empty heap: OK, passed 100 tests.
++ HeapProperties.inserting the minimal element and then finding it should return the same minimal element: OK, passed 10
+  0 tests.
++ HeapProperties.continually finding and deleting the minimal element of a heap should return a sorted sequence: OK, pas
+  sed 100 tests.
++ HeapProperties.melding a heap containing two low values with a heap containing two high values: OK, passed 100 tests.
+failing seed for HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the source heaps is j7Zd-UtKzAIbzpmKYom49C1ibX0gnG_V7Njp8MgKdIF=
+! HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the sourc
+  e heaps: Falsified after 7 passed tests.
+&gt; ARG_0: List(&quot;Node(-174385362,1,List(Node(-1,0,List())))&quot;)
+&gt; ARG_1: List(&quot;Node(2147483647,0,List())&quot;)
+
+	at quickcheck.QuickCheckSuite.checkPropertiesOnCorrectHeap(QuickCheckSuite.scala:80)
+	at quickcheck.QuickCheckSuite.checkBogus(QuickCheckSuite.scala:41)
+	at quickcheck.QuickCheckSuite.$init$$$anonfun$1(QuickCheckSuite.scala:12)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+</failure>
+                    </testcase><testcase classname="quickcheck.QuickCheckSuite" name="Bogus (2) binomial heap does not satisfy properties. (10pts)" time="0.035">
+                      <failure message="java.lang.AssertionError: The properties were not satisfied by the correct binomial heap implementation. Make sure the properties you write are true of heaps. Here is the output of scalacheck when checking your properties on the correct heap implementation.
++ HeapProperties.the minimum of a heap of two elements should be the smallest of the two elements: OK, passed 100 tests.
++ HeapProperties.delete minumum of heap of one element should return an empty heap: OK, passed 100 tests.
++ HeapProperties.inserting the minimal element and then finding it should return the same minimal element: OK, passed 10
+  0 tests.
++ HeapProperties.continually finding and deleting the minimal element of a heap should return a sorted sequence: OK, pas
+  sed 100 tests.
++ HeapProperties.melding a heap containing two low values with a heap containing two high values: OK, passed 100 tests.
+failing seed for HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the source heaps is IljBI9i8-m74ZHP5cEY9l9KeV29V3jN0XE_K_z24GpM=
+! HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the sourc
+  e heaps: Falsified after 12 passed tests.
+&gt; ARG_0: List(&quot;Node(-1,0,List())&quot;)
+&gt; ARG_1: List(&quot;Node(-1516974602,1,List(Node(1,0,List())))&quot;)
+" type="sbt.ForkMain$ForkError">sbt.ForkMain$ForkError: java.lang.AssertionError: The properties were not satisfied by the correct binomial heap implementation. Make sure the properties you write are true of heaps. Here is the output of scalacheck when checking your properties on the correct heap implementation.
++ HeapProperties.the minimum of a heap of two elements should be the smallest of the two elements: OK, passed 100 tests.
++ HeapProperties.delete minumum of heap of one element should return an empty heap: OK, passed 100 tests.
++ HeapProperties.inserting the minimal element and then finding it should return the same minimal element: OK, passed 10
+  0 tests.
++ HeapProperties.continually finding and deleting the minimal element of a heap should return a sorted sequence: OK, pas
+  sed 100 tests.
++ HeapProperties.melding a heap containing two low values with a heap containing two high values: OK, passed 100 tests.
+failing seed for HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the source heaps is IljBI9i8-m74ZHP5cEY9l9KeV29V3jN0XE_K_z24GpM=
+! HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the sourc
+  e heaps: Falsified after 12 passed tests.
+&gt; ARG_0: List(&quot;Node(-1,0,List())&quot;)
+&gt; ARG_1: List(&quot;Node(-1516974602,1,List(Node(1,0,List())))&quot;)
+
+	at quickcheck.QuickCheckSuite.checkPropertiesOnCorrectHeap(QuickCheckSuite.scala:80)
+	at quickcheck.QuickCheckSuite.checkBogus(QuickCheckSuite.scala:41)
+	at quickcheck.QuickCheckSuite.$init$$$anonfun$2(QuickCheckSuite.scala:16)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+</failure>
+                    </testcase><testcase classname="quickcheck.QuickCheckSuite" name="Bogus (3) binomial heap does not satisfy properties. (10pts)" time="0.017">
+                      <failure message="java.lang.AssertionError: The properties were not satisfied by the correct binomial heap implementation. Make sure the properties you write are true of heaps. Here is the output of scalacheck when checking your properties on the correct heap implementation.
++ HeapProperties.the minimum of a heap of two elements should be the smallest of the two elements: OK, passed 100 tests.
++ HeapProperties.delete minumum of heap of one element should return an empty heap: OK, passed 100 tests.
++ HeapProperties.inserting the minimal element and then finding it should return the same minimal element: OK, passed 10
+  0 tests.
++ HeapProperties.continually finding and deleting the minimal element of a heap should return a sorted sequence: OK, pas
+  sed 100 tests.
++ HeapProperties.melding a heap containing two low values with a heap containing two high values: OK, passed 100 tests.
+failing seed for HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the source heaps is 3N5gsQaoTfx-UnBlvZKwyg3V7e5DMs2SVGVAKngaWUD=
+! HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the sourc
+  e heaps: Falsified after 12 passed tests.
+&gt; ARG_0: List(&quot;Node(1,0,List())&quot;)
+&gt; ARG_1: List(&quot;Node(0,1,List(Node(1591811598,0,List())))&quot;)
+" type="sbt.ForkMain$ForkError">sbt.ForkMain$ForkError: java.lang.AssertionError: The properties were not satisfied by the correct binomial heap implementation. Make sure the properties you write are true of heaps. Here is the output of scalacheck when checking your properties on the correct heap implementation.
++ HeapProperties.the minimum of a heap of two elements should be the smallest of the two elements: OK, passed 100 tests.
++ HeapProperties.delete minumum of heap of one element should return an empty heap: OK, passed 100 tests.
++ HeapProperties.inserting the minimal element and then finding it should return the same minimal element: OK, passed 10
+  0 tests.
++ HeapProperties.continually finding and deleting the minimal element of a heap should return a sorted sequence: OK, pas
+  sed 100 tests.
++ HeapProperties.melding a heap containing two low values with a heap containing two high values: OK, passed 100 tests.
+failing seed for HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the source heaps is 3N5gsQaoTfx-UnBlvZKwyg3V7e5DMs2SVGVAKngaWUD=
+! HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the sourc
+  e heaps: Falsified after 12 passed tests.
+&gt; ARG_0: List(&quot;Node(1,0,List())&quot;)
+&gt; ARG_1: List(&quot;Node(0,1,List(Node(1591811598,0,List())))&quot;)
+
+	at quickcheck.QuickCheckSuite.checkPropertiesOnCorrectHeap(QuickCheckSuite.scala:80)
+	at quickcheck.QuickCheckSuite.checkBogus(QuickCheckSuite.scala:41)
+	at quickcheck.QuickCheckSuite.$init$$$anonfun$3(QuickCheckSuite.scala:20)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+</failure>
+                    </testcase><testcase classname="quickcheck.QuickCheckSuite" name="Bogus (4) binomial heap does not satisfy properties. (10pts)" time="0.021">
+                      <failure message="java.lang.AssertionError: The properties were not satisfied by the correct binomial heap implementation. Make sure the properties you write are true of heaps. Here is the output of scalacheck when checking your properties on the correct heap implementation.
++ HeapProperties.the minimum of a heap of two elements should be the smallest of the two elements: OK, passed 100 tests.
++ HeapProperties.delete minumum of heap of one element should return an empty heap: OK, passed 100 tests.
++ HeapProperties.inserting the minimal element and then finding it should return the same minimal element: OK, passed 10
+  0 tests.
++ HeapProperties.continually finding and deleting the minimal element of a heap should return a sorted sequence: OK, pas
+  sed 100 tests.
++ HeapProperties.melding a heap containing two low values with a heap containing two high values: OK, passed 100 tests.
+failing seed for HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the source heaps is -Eb4diyuCiGdrPcoULh2iJVpDd0C54UwFYdUPkyEdXI=
+! HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the sourc
+  e heaps: Falsified after 12 passed tests.
+&gt; ARG_0: List(&quot;Node(-1,1,List(Node(936258789,0,List())))&quot;)
+&gt; ARG_1: List(&quot;Node(2147483647,0,List())&quot;)
+" type="sbt.ForkMain$ForkError">sbt.ForkMain$ForkError: java.lang.AssertionError: The properties were not satisfied by the correct binomial heap implementation. Make sure the properties you write are true of heaps. Here is the output of scalacheck when checking your properties on the correct heap implementation.
++ HeapProperties.the minimum of a heap of two elements should be the smallest of the two elements: OK, passed 100 tests.
++ HeapProperties.delete minumum of heap of one element should return an empty heap: OK, passed 100 tests.
++ HeapProperties.inserting the minimal element and then finding it should return the same minimal element: OK, passed 10
+  0 tests.
++ HeapProperties.continually finding and deleting the minimal element of a heap should return a sorted sequence: OK, pas
+  sed 100 tests.
++ HeapProperties.melding a heap containing two low values with a heap containing two high values: OK, passed 100 tests.
+failing seed for HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the source heaps is -Eb4diyuCiGdrPcoULh2iJVpDd0C54UwFYdUPkyEdXI=
+! HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the sourc
+  e heaps: Falsified after 12 passed tests.
+&gt; ARG_0: List(&quot;Node(-1,1,List(Node(936258789,0,List())))&quot;)
+&gt; ARG_1: List(&quot;Node(2147483647,0,List())&quot;)
+
+	at quickcheck.QuickCheckSuite.checkPropertiesOnCorrectHeap(QuickCheckSuite.scala:80)
+	at quickcheck.QuickCheckSuite.checkBogus(QuickCheckSuite.scala:41)
+	at quickcheck.QuickCheckSuite.$init$$$anonfun$4(QuickCheckSuite.scala:24)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+</failure>
+                    </testcase><testcase classname="quickcheck.QuickCheckSuite" name="Bogus (5) binomial heap does not satisfy properties. (10pts)" time="0.033">
+                      <failure message="java.lang.AssertionError: The properties were not satisfied by the correct binomial heap implementation. Make sure the properties you write are true of heaps. Here is the output of scalacheck when checking your properties on the correct heap implementation.
++ HeapProperties.the minimum of a heap of two elements should be the smallest of the two elements: OK, passed 100 tests.
++ HeapProperties.delete minumum of heap of one element should return an empty heap: OK, passed 100 tests.
++ HeapProperties.inserting the minimal element and then finding it should return the same minimal element: OK, passed 10
+  0 tests.
++ HeapProperties.continually finding and deleting the minimal element of a heap should return a sorted sequence: OK, pas
+  sed 100 tests.
++ HeapProperties.melding a heap containing two low values with a heap containing two high values: OK, passed 100 tests.
+failing seed for HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the source heaps is 5-um9UCTKa7Ju6XEKExMiY0ZoYSCfg34DVTERFVbI5A=
+! HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the sourc
+  e heaps: Falsified after 10 passed tests.
+&gt; ARG_0: List(&quot;Node(-1608242034,0,List())&quot;)
+&gt; ARG_1: List(&quot;Node(-2147483648,1,List(Node(1253544596,0,List())))&quot;)
+&gt; ARG_0_ORIGINAL: List(&quot;Node(-1608242034,0,List())&quot;, &quot;Node(-2147483648,1,List(Node(-1149713452,0,List())))&quot;)
+&gt; ARG_1_ORIGINAL: List(&quot;Node(338519688,0,List())&quot;, &quot;Node(-2147483648,1,List(Node(1253544596,0,List())))&quot;)
+" type="sbt.ForkMain$ForkError">sbt.ForkMain$ForkError: java.lang.AssertionError: The properties were not satisfied by the correct binomial heap implementation. Make sure the properties you write are true of heaps. Here is the output of scalacheck when checking your properties on the correct heap implementation.
++ HeapProperties.the minimum of a heap of two elements should be the smallest of the two elements: OK, passed 100 tests.
++ HeapProperties.delete minumum of heap of one element should return an empty heap: OK, passed 100 tests.
++ HeapProperties.inserting the minimal element and then finding it should return the same minimal element: OK, passed 10
+  0 tests.
++ HeapProperties.continually finding and deleting the minimal element of a heap should return a sorted sequence: OK, pas
+  sed 100 tests.
++ HeapProperties.melding a heap containing two low values with a heap containing two high values: OK, passed 100 tests.
+failing seed for HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the source heaps is 5-um9UCTKa7Ju6XEKExMiY0ZoYSCfg34DVTERFVbI5A=
+! HeapProperties.finding the minimum of melding any two heaps should return the minimum of one or the other of the sourc
+  e heaps: Falsified after 10 passed tests.
+&gt; ARG_0: List(&quot;Node(-1608242034,0,List())&quot;)
+&gt; ARG_1: List(&quot;Node(-2147483648,1,List(Node(1253544596,0,List())))&quot;)
+&gt; ARG_0_ORIGINAL: List(&quot;Node(-1608242034,0,List())&quot;, &quot;Node(-2147483648,1,List(Node(-1149713452,0,List())))&quot;)
+&gt; ARG_1_ORIGINAL: List(&quot;Node(338519688,0,List())&quot;, &quot;Node(-2147483648,1,List(Node(1253544596,0,List())))&quot;)
+
+	at quickcheck.QuickCheckSuite.checkPropertiesOnCorrectHeap(QuickCheckSuite.scala:80)
+	at quickcheck.QuickCheckSuite.checkBogus(QuickCheckSuite.scala:41)
+	at quickcheck.QuickCheckSuite.$init$$$anonfun$5(QuickCheckSuite.scala:28)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+</failure>
+                    </testcase>
+          <system-out><![CDATA[]]></system-out>
+          <system-err><![CDATA[]]></system-err>
+        </testsuite>

@@ -1,0 +1,20 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(ab3aed53-fcd6-49ad-a6f8-8aff29d19450), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: bloop.integrations.sbt.Offloader$$anon$1@7d4bdbd8, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 2 Scala sources to /home/savely/todo/target/scala-3.0.0/classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0mToplevel definition decode is defined in[0m
+[0m[[0m[33mwarn[0m] [0m[0m  /home/savely/todo/target/scala-3.0.0/classes/io/circe/parser/CirceShim$package.class[0m
+[0m[[0m[33mwarn[0m] [0m[0mand also in[0m
+[0m[[0m[33mwarn[0m] [0m[0m  /home/savely/.cache/coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-core_2.13/0.13.0/circe-core_2.13-0.13.0.jar(io/circe/Parser.class)[0m
+[0m[[0m[33mwarn[0m] [0m[0mKeeping only the definition in /home/savely/todo/target/scala-3.0.0/classes/io/circe/parser/CirceShim$package.class[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
+[0m[[0m[31merror[0m] [0m[0mFailed: Total 23, Failed 7, Errors 0, Passed 16[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	todo.TodoSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 4 s, completed Jan 7, 2022, 1:30:40 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m

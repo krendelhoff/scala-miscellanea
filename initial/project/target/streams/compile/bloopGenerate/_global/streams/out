@@ -1,0 +1,4 @@
+[debug] [initial-build] Classpath dependencies List()
+[debug] [initial-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'initial-build' to '/home/savely/scala-miscellanea/initial/project/.bloop/initial-build.json'
+[success] Generated .bloop/initial-build.json

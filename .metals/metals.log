@@ -1,0 +1,2305 @@
+[0m2022.01.05 23:57:01 INFO  Started: Metals version 0.10.9 in workspace '/home/savely/scala-miscellanea' for client emacs GNU Emacs 28.0.90 (build 1, x86_64-pc-linux-gnu, GTK+ Version 3.24.27, cairo version 1.16.0).[0m
+[0m2022.01.05 23:57:01 INFO  time: initialize in 0.65s[0m
+[0m2022.01.05 23:57:02 WARN  Build server is not auto-connectable.[0m
+[0m2022.01.05 23:57:02 WARN  no build tool detected in workspace '/home/savely/scala-miscellanea'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.01.05 23:57:03 WARN  no build target for: /home/savely/scala-miscellanea/funsets/src/main/scala/funsets/FunSets.scala[0m
+Default dialect is deprecated; use explicit: [Scala211,scala212,Scala212Source3,scala213,Scala213Source3,Sbt0137,Sbt1,scala3]
+Also see https://scalameta.org/scalafmt/docs/configuration.html#scala-dialects"
+[0m2022.01.05 23:57:06 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2022.01.05 23:57:10 INFO  time: code lens generation in 6.03s[0m
+[0m2022.01.05 23:57:10 INFO  time: code lens generation in 7.3s[0m
+[0m2022.01.05 23:57:10 INFO  time: code lens generation in 6.03s[0m
+[0m2022.01.05 23:57:47 INFO  shutting down Metals[0m
+[0m2022.01.06 12:31:36 INFO  Started: Metals version 0.10.9 in workspace '/home/savely/scala-miscellanea' for client emacs GNU Emacs 28.0.90 (build 1, x86_64-pc-linux-gnu, GTK+ Version 3.24.27, cairo version 1.16.0).[0m
+[0m2022.01.06 12:31:37 INFO  time: initialize in 0.66s[0m
+[0m2022.01.06 12:31:38 WARN  Build server is not auto-connectable.[0m
+[0m2022.01.06 12:31:38 WARN  no build tool detected in workspace '/home/savely/scala-miscellanea'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.01.06 12:31:38 WARN  no build target for: /home/savely/scala-miscellanea/funsets/src/test/scala/funsets/FunSetSuite.scala[0m
+Default dialect is deprecated; use explicit: [Scala211,scala212,Scala212Source3,scala213,Scala213Source3,Sbt0137,Sbt1,scala3]
+Also see https://scalameta.org/scalafmt/docs/configuration.html#scala-dialects"
+[0m2022.01.06 12:31:43 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2022.01.06 12:31:47 INFO  time: code lens generation in 6.85s[0m
+[0m2022.01.06 12:31:47 INFO  time: code lens generation in 8.59s[0m
+[0m2022.01.06 12:31:47 INFO  time: code lens generation in 6.85s[0m
+[0m2022.01.06 12:33:16 WARN  no build target for: /home/savely/scala-miscellanea/funsets/src/test/scala/funsets/FunSetSuite.scala[0m
+Jan 06, 2022 12:33:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 732
+Jan 06, 2022 12:33:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 733
+Jan 06, 2022 12:33:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 736
+[0m2022.01.06 12:33:43 WARN  no build target for: /home/savely/scala-miscellanea/funsets/src/test/scala/funsets/FunSetSuite.scala[0m
+[0m2022.01.06 12:33:55 WARN  no build target for: /home/savely/scala-miscellanea/funsets/src/test/scala/funsets/FunSetSuite.scala[0m
+[0m2022.01.06 12:37:22 WARN  no build target for: /home/savely/scala-miscellanea/funsets/src/main/scala/funsets/Main.scala[0m
+Jan 06, 2022 12:37:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 756
+[0m2022.01.06 12:39:40 WARN  no build target for: /home/savely/scala-miscellanea/funsets/src/test/scala/funsets/FunSetSuite.scala[0m
+Jan 06, 2022 12:40:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 824
+[0m2022.01.06 12:40:50 WARN  no build target for: /home/savely/scala-miscellanea/funsets/src/test/scala/funsets/FunSetSuite.scala[0m
+[0m2022.01.06 12:40:55 WARN  no build target for: /home/savely/scala-miscellanea/funsets/src/test/scala/funsets/FunSetSuite.scala[0m
+Jan 06, 2022 12:41:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 887
+Jan 06, 2022 12:41:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 886
+[0m2022.01.07 12:22:37 INFO  Started: Metals version 0.10.9 in workspace '/home/savely/scala-miscellanea' for client emacs GNU Emacs 28.0.90 (build 1, x86_64-pc-linux-gnu, GTK+ Version 3.24.27, cairo version 1.16.0).[0m
+[0m2022.01.07 12:22:40 INFO  time: initialize in 2.9s[0m
+[0m2022.01.07 12:22:43 WARN  Build server is not auto-connectable.[0m
+[0m2022.01.07 12:22:43 WARN  no build tool detected in workspace '/home/savely/scala-miscellanea'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.01.07 12:22:44 WARN  no build target for: /home/savely/scala-miscellanea/funsets/src/test/scala/funsets/FunSetSuite.scala[0m
+Default dialect is deprecated; use explicit: [Scala211,scala212,Scala212Source3,scala213,Scala213Source3,Sbt0137,Sbt1,scala3]
+Also see https://scalameta.org/scalafmt/docs/configuration.html#scala-dialects"
+[0m2022.01.07 12:22:50 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2022.01.07 12:22:53 INFO  time: code lens generation in 8.57s[0m
+[0m2022.01.07 12:22:53 INFO  time: code lens generation in 9.6s[0m
+[0m2022.01.07 12:22:53 INFO  time: code lens generation in 2.08s[0m
+[0m2022.01.07 14:40:29 INFO  Started: Metals version 0.10.9 in workspace '/home/savely/scala-miscellanea' for client emacs GNU Emacs 28.0.90 (build 1, x86_64-pc-linux-gnu, GTK+ Version 3.24.27, cairo version 1.16.0).[0m
+[0m2022.01.07 14:40:32 INFO  time: initialize in 2.48s[0m
+[0m2022.01.07 14:40:32 WARN  Build server is not auto-connectable.[0m
+[0m2022.01.07 14:40:32 WARN  no build tool detected in workspace '/home/savely/scala-miscellanea'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Default dialect is deprecated; use explicit: [Scala211,scala212,Scala212Source3,scala213,Scala213Source3,Sbt0137,Sbt1,scala3]
+Also see https://scalameta.org/scalafmt/docs/configuration.html#scala-dialects"
+[0m2022.01.07 14:40:40 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2022.01.07 14:40:43 INFO  time: code lens generation in 9.43s[0m
+[0m2022.01.07 14:40:43 INFO  time: code lens generation in 9.44s[0m
+[0m2022.01.07 14:40:43 INFO  time: code lens generation in 10s[0m
+[0m2022.01.07 14:40:43 INFO  time: code lens generation in 1.17s[0m
+[0m2022.01.07 14:40:46 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2022.01.07 14:40:46 INFO  time: evaluated worksheet 'example.worksheet.sc' in 13s[0m
+Jan 07, 2022 2:40:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 544
+Jan 07, 2022 2:40:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 547
+[31merror[39m: initial/src/example.worksheet.sc:1:33: ; expected but { found
+import scala.collection.immutale{List => _}
+                                ^
+[0m2022.01.07 14:40:56 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.73s[0m
+[31merror[39m: initial/src/example.worksheet.sc:1:34: ; expected but { found
+import scala.collection.immutable{List => _}
+                                 ^
+[0m2022.01.07 14:41:00 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.52s[0m
+Jan 07, 2022 2:41:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 570
+Jan 07, 2022 2:41:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 571
+Jan 07, 2022 2:41:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 581
+Jan 07, 2022 2:41:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 584
+[0m2022.01.07 14:41:03 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.44s[0m
+Jan 07, 2022 2:41:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 597
+Jan 07, 2022 2:41:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 604
+[0m2022.01.07 14:41:16 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.46s[0m
+Jan 07, 2022 2:41:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 624
+Jan 07, 2022 2:41:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 645
+[31merror[39m: initial/src/example.worksheet.sc:5:1: identifier expected but end of file found
+
+^
+[0m2022.01.07 14:41:37 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.49s[0m
+[31merror[39m: initial/src/example.worksheet.sc:4:16: ; expected but [ found
+case object Nil[T] extends List[T]
+               ^
+[0m2022.01.07 14:42:02 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.34s[0m
+Jan 07, 2022 2:42:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 714
+[31merror[39m: initial/src/example.worksheet.sc:4:19: case classes must have a parameter list; try 'case class Nil()' or 'case object Nil'
+case class Nil[T] extends List[T]
+                  ^^^^^^^
+[0m2022.01.07 14:42:14 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.38s[0m
+[31merror[39m: initial/src/example.worksheet.sc:1:38: 
+'}' expected, but '=>' found
+import scala.collection.immutable.{* => _}
+                                     ^^
+[0m2022.01.07 14:42:23 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.22s[0m
+Jan 07, 2022 2:42:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 5 is not a valid line number, allowed [0..4]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1555)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1554)
+	... 15 more
+
+Jan 07, 2022 2:42:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 6 is not a valid line number, allowed [0..5]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.lineLength$1(Position.scala:57)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:60)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1555)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1554)
+	... 15 more
+
+Jan 07, 2022 2:42:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 791
+Jan 07, 2022 2:42:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 789
+Jan 07, 2022 2:42:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 788
+Jan 07, 2022 2:42:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 806
+Jan 07, 2022 2:42:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 823
+Jan 07, 2022 2:42:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 849
+Jan 07, 2022 2:42:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 846
+Jan 07, 2022 2:42:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 859
+[31merror[39m: initial/src/example.worksheet.sc:1:38: 
+'}' expected, but '=>' found
+import scala.collection.immutable.{* => _}
+                                     ^^
+[0m2022.01.07 14:42:56 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.2s[0m
+Jan 07, 2022 2:42:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 872
+Jan 07, 2022 2:43:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didChange",
+  "params": {
+    "textDocument": {
+      "version": 284,
+      "uri": "file:///home/savely/scala-miscellanea/initial/src/example.worksheet.sc"
+    },
+    "contentChanges": [
+      {
+        "text": "sealed trait List[T]\ncase class Nil[T]() extends List[T]\ncase class Cons[T](head: T, tail: List[T]) extends List[T]\n\n"
+      }
+    ]
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: -1 is not a valid offset, allowed [0..117]
+	at scala.meta.internal.inputs.InternalInput.offsetToLine(InternalInput.scala:48)
+	at scala.meta.internal.inputs.InternalInput.offsetToLine$(InternalInput.scala:42)
+	at scala.meta.inputs.Input$VirtualFile.offsetToLine(Input.scala:80)
+	at scala.meta.inputs.Position$Range.startLine(Position.scala:37)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionMetaPosition.toLSP(CommonMtagsEnrichments.scala:91)
+	at scala.meta.internal.parsing.TokenEditDistance.toRevised(TokenEditDistance.scala:136)
+	at scala.meta.internal.metals.Diagnostics.toFreshDiagnostic(Diagnostics.scala:233)
+	at scala.meta.internal.metals.Diagnostics.$anonfun$publishDiagnostics$3(Diagnostics.scala:201)
+	at scala.meta.internal.metals.Diagnostics.$anonfun$publishDiagnostics$3$adapted(Diagnostics.scala:200)
+	at scala.collection.Iterator.foreach(Iterator.scala:943)
+	at scala.collection.Iterator.foreach$(Iterator.scala:943)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1431)
+	at scala.collection.IterableLike.foreach(IterableLike.scala:74)
+	at scala.collection.IterableLike.foreach$(IterableLike.scala:73)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:56)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:200)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:164)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:112)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChange(MetalsLanguageServer.scala:1143)
+	... 15 more
+
+[0m2022.01.07 14:43:05 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.7s[0m
+[31merror[39m: initial/src/example.worksheet.sc:5:17: 
+Found:    App.this.Nil.type
+Required: App.this.List[Int]
+Cons(1, Cons(2, Nil))
+                ^^^
+[0m2022.01.07 14:43:18 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.33s[0m
+[31merror[39m: initial/src/example.worksheet.sc:5:22: 
+Found:    App.this.Nil.type
+Required: App.this.List[Int]
+Cons[Int](1, Cons(2, Nil))
+                     ^^^
+[0m2022.01.07 14:43:31 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.3s[0m
+[31merror[39m: initial/src/example.worksheet.sc:5:27: 
+method apply in object Nil must be called with () argument
+Cons[Int](1, Cons[Int](2, Nil[Int]))
+                          ^^^^^^^^
+[0m2022.01.07 14:43:38 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.25s[0m
+[0m2022.01.07 14:43:50 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.77s[0m
+[31merror[39m: initial/src/example.worksheet.sc:2:19: case classes must have a parameter list; try 'case class Nil()' or 'case object Nil'
+case class Nil[T] extends List[T]
+                  ^^^^^^^
+[0m2022.01.07 14:44:12 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.3s[0m
+Jan 07, 2022 2:44:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1011
+[31merror[39m: initial/src/example.worksheet.sc:5:27: 
+Reference to constructor proxy for class Nil in class App
+shadows outer reference to getter Nil in package scala
+Cons[Int](1, Cons[Int](2, Nil()))
+                          ^^^
+[0m2022.01.07 14:44:17 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.2s[0m
+[31merror[39m: initial/src/example.worksheet.sc:5:27: 
+Reference to constructor proxy for class Nil in class App
+shadows outer reference to getter Nil in package scala
+Cons[Int](1, Cons[Int](2, Nil[Int]))
+                          ^^^
+[0m2022.01.07 14:44:22 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.19s[0m
+[31merror[39m: initial/src/example.worksheet.sc:5:27: 
+Reference to constructor proxy for class Nil in class App
+shadows outer reference to getter Nil in package scala
+Cons[Int](1, Cons[Int](2, Nil[Int]))
+                          ^^^
+[0m2022.01.07 14:44:33 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.16s[0m
+Jan 07, 2022 2:50:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1064
+[31merror[39m: initial/src/example.worksheet.sc:6:27: 
+Reference to constructor proxy for class Nil in class App
+shadows outer reference to getter Nil in package scala
+Cons[Int](1, Cons[Int](2, Nil[Int]))
+                          ^^^
+[0m2022.01.07 14:50:34 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.22s[0m
+Jan 07, 2022 2:50:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1116
+Jan 07, 2022 2:50:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1115
+[31merror[39m: initial/src/example.worksheet.sc:6:27: 
+Reference to constructor proxy for class Nil in class App
+shadows outer reference to getter Nil in package scala
+Cons[Int](1, Cons[Int](2, Nil[Int]))
+                          ^^^
+[0m2022.01.07 14:50:52 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.19s[0m
+[0m2022.01.07 14:51:01 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.37s[0m
+Jan 07, 2022 2:51:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1147
+[31merror[39m: initial/src/example.worksheet.sc:6:27: 
+Reference to constructor proxy for class Nil in class App
+shadows outer reference to getter Nil in package scala
+Cons[Int](1, Cons[Int](2, Nil[Int]))
+                          ^^^
+[0m2022.01.07 14:51:03 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.18s[0m
+Exception in thread "pool-9-thread-1" java.lang.AssertionError: assertion failed
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:11)
+	at dotty.tools.dotc.core.Annotations$LazyAnnotation.tree(Annotations.scala:78)
+	at dotty.tools.dotc.core.Annotations$Annotation$Child$.unapply(Annotations.scala:187)
+	at dotty.tools.dotc.typer.Namer.insertInto$1(Namer.scala:476)
+	at dotty.tools.dotc.typer.Namer.addChild(Namer.scala:487)
+	at dotty.tools.dotc.typer.Namer$Completer.register$1(Namer.scala:864)
+	at dotty.tools.dotc.typer.Namer$Completer.registerIfChild$$anonfun$1(Namer.scala:873)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.typer.Namer$Completer.registerIfChild(Namer.scala:873)
+	at dotty.tools.dotc.typer.Namer$Completer.complete(Namer.scala:780)
+	at dotty.tools.dotc.core.SymDenotations$SymDenotation.completeFrom(SymDenotations.scala:167)
+	at dotty.tools.dotc.core.Denotations$Denotation.completeInfo$1(Denotations.scala:188)
+	at dotty.tools.dotc.core.Denotations$Denotation.info(Denotations.scala:190)
+	at dotty.tools.dotc.core.Types$NamedType.info(Types.scala:2179)
+	at dotty.tools.dotc.core.Types$TermLambda.dotty$tools$dotc$core$Types$TermLambda$$_$compute$1(Types.scala:3597)
+	at dotty.tools.dotc.core.Types$TermLambda.foldArgs$1(Types.scala:3604)
+	at dotty.tools.dotc.core.Types$TermLambda.dotty$tools$dotc$core$Types$TermLambda$$_$compute$1(Types.scala:4137)
+	at dotty.tools.dotc.core.Types$TermLambda.dotty$tools$dotc$core$Types$TermLambda$$depStatus(Types.scala:3610)
+	at dotty.tools.dotc.core.Types$TermLambda.dependencyStatus(Types.scala:3624)
+	at dotty.tools.dotc.core.Types$TermLambda.isResultDependent(Types.scala:3645)
+	at dotty.tools.dotc.core.Types$TermLambda.isResultDependent$(Types.scala:3555)
+	at dotty.tools.dotc.core.Types$MethodType.isResultDependent(Types.scala:3669)
+	at dotty.tools.dotc.typer.TypeAssigner.assignType(TypeAssigner.scala:290)
+	at dotty.tools.dotc.typer.TypeAssigner.assignType$(TypeAssigner.scala:19)
+	at dotty.tools.dotc.typer.Typer.assignType(Typer.scala:107)
+	at dotty.tools.dotc.ast.tpd$.Apply(tpd.scala:48)
+	at dotty.tools.dotc.ast.tpd$TreeOps$.appliedToTermArgs$extension(tpd.scala:917)
+	at dotty.tools.dotc.ast.tpd$.New(tpd.scala:503)
+	at dotty.tools.dotc.ast.tpd$.New(tpd.scala:494)
+	at dotty.tools.dotc.core.Annotations$Annotation$Child$.makeChildLater$1(Annotations.scala:176)
+	at dotty.tools.dotc.core.Annotations$Annotation$Child$.later$$anonfun$1(Annotations.scala:179)
+	at dotty.tools.dotc.core.Annotations$.dotty$tools$dotc$core$Annotations$$anon$2$$_$$lessinit$greater$$anonfun$2(Annotations.scala:158)
+	at dotty.tools.dotc.core.Annotations$LazyAnnotation.tree(Annotations.scala:82)
+	at dotty.tools.dotc.core.Annotations$Annotation$Child$.unapply(Annotations.scala:187)
+	at dotty.tools.dotc.typer.Namer.insertInto$1(Namer.scala:476)
+	at dotty.tools.dotc.typer.Namer.addChild(Namer.scala:487)
+	at dotty.tools.dotc.typer.Namer$Completer.register$1(Namer.scala:864)
+	at dotty.tools.dotc.typer.Namer$Completer.registerIfChild$$anonfun$1(Namer.scala:873)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.typer.Namer$Completer.registerIfChild(Namer.scala:873)
+	at dotty.tools.dotc.typer.Namer$Completer.complete(Namer.scala:780)
+	at dotty.tools.dotc.core.SymDenotations$SymDenotation.completeFrom(SymDenotations.scala:167)
+	at dotty.tools.dotc.core.Denotations$Denotation.completeInfo$1(Denotations.scala:188)
+	at dotty.tools.dotc.core.Denotations$Denotation.info(Denotations.scala:190)
+	at dotty.tools.dotc.core.SymDenotations$SymDenotation.ensureCompleted(SymDenotations.scala:369)
+	at dotty.tools.dotc.typer.Typer.retrieveSym(Typer.scala:2697)
+	at dotty.tools.dotc.typer.Typer.typedNamed$1(Typer.scala:2722)
+	at dotty.tools.dotc.typer.Typer.typedUnadapted(Typer.scala:2817)
+	at dotty.tools.dotc.typer.Typer.typed(Typer.scala:2883)
+	at dotty.tools.dotc.typer.Typer.typed(Typer.scala:2887)
+	at dotty.tools.dotc.typer.Typer.traverse$1(Typer.scala:2909)
+	at dotty.tools.dotc.typer.Typer.typedStats(Typer.scala:2959)
+	at dotty.tools.dotc.typer.Typer.typedClassDef(Typer.scala:2409)
+	at dotty.tools.dotc.typer.Typer.typedTypeOrClassDef$2(Typer.scala:2743)
+	at dotty.tools.dotc.typer.Typer.typedNamed$1(Typer.scala:2747)
+	at dotty.tools.dotc.typer.Typer.typedUnadapted(Typer.scala:2817)
+	at dotty.tools.dotc.typer.Typer.typed(Typer.scala:2883)
+	at dotty.tools.dotc.typer.Typer.typed(Typer.scala:2887)
+	at dotty.tools.dotc.typer.Typer.traverse$1(Typer.scala:2909)
+	at dotty.tools.dotc.typer.Typer.typedStats(Typer.scala:2959)
+	at dotty.tools.dotc.typer.Typer.typedPackageDef(Typer.scala:2532)
+	at dotty.tools.dotc.typer.Typer.typedUnnamed$1(Typer.scala:2788)
+	at dotty.tools.dotc.typer.Typer.typedUnadapted(Typer.scala:2818)
+	at dotty.tools.dotc.typer.Typer.typed(Typer.scala:2883)
+	at dotty.tools.dotc.typer.Typer.typed(Typer.scala:2887)
+	at dotty.tools.dotc.typer.Typer.typedExpr(Typer.scala:3003)
+	at dotty.tools.dotc.typer.TyperPhase.liftedTree1$1(TyperPhase.scala:56)
+	at dotty.tools.dotc.typer.TyperPhase.typeCheck$$anonfun$1(TyperPhase.scala:62)
+	at dotty.tools.dotc.core.Phases$Phase.monitor(Phases.scala:411)
+	at dotty.tools.dotc.typer.TyperPhase.typeCheck(TyperPhase.scala:63)
+	at dotty.tools.dotc.typer.TyperPhase.runOn$$anonfun$1(TyperPhase.scala:105)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.List.foreach(List.scala:333)
+	at dotty.tools.dotc.typer.TyperPhase.runOn(TyperPhase.scala:105)
+	at dotty.tools.dotc.Run.runPhases$4$$anonfun$4(Run.scala:261)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.ArrayOps$.foreach$extension(ArrayOps.scala:1328)
+	at dotty.tools.dotc.Run.runPhases$5(Run.scala:272)
+	at dotty.tools.dotc.Run.compileUnits$$anonfun$1(Run.scala:280)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at dotty.tools.dotc.util.Stats$.maybeMonitored(Stats.scala:68)
+	at dotty.tools.dotc.Run.compileUnits(Run.scala:289)
+	at dotty.tools.dotc.Run.compileSources(Run.scala:222)
+	at dotty.tools.dotc.interactive.InteractiveDriver.run(InteractiveDriver.scala:163)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:296)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[0m2022.01.07 14:51:51 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.49s[0m
+Jan 07, 2022 2:52:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1226
+Jan 07, 2022 2:52:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1225
+[31merror[39m: initial/src/example.worksheet.sc:5:10: ; expected but extends found
+  Nil[T] extends Lst[T]
+         ^^^^^^^
+[0m2022.01.07 14:52:22 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.27s[0m
+[31merror[39m: initial/src/example.worksheet.sc:4:1: 
+Lst is already defined as trait Lst
+enum Lst:
+^
+[31merror[39m: initial/src/example.worksheet.sc:7:27: 
+Not found: Nl
+Cons[Int](1, Cons[Int](2, Nl[Int]))
+                          ^^
+[0m2022.01.07 14:52:45 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.36s[0m
+[31merror[39m: initial/src/example.worksheet.sc:5:8: 
+A case class must have at least one parameter list
+  case Nil[T] extends Lst[T]
+       ^^^
+[31merror[39m: initial/src/example.worksheet.sc:7:27: 
+Not found: Nl
+Cons[Int](1, Cons[Int](2, Nl[Int]))
+                          ^^
+[0m2022.01.07 14:52:54 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.33s[0m
+Exception in thread "pool-9-thread-2" java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2503)
+	at scala.meta.internal.pc.SymbolPrinter.ownerTypeString$1(SymbolPrinter.scala:46)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-9-thread-3" java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2503)
+	at scala.meta.internal.pc.SymbolPrinter.ownerTypeString$1(SymbolPrinter.scala:46)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[31merror[39m: initial/src/example.worksheet.sc:4:8: 
+A case class must have at least one parameter list
+  case Nl[T] extends Lst[T]
+       ^^
+[31merror[39m: initial/src/example.worksheet.sc:6:27: 
+Not found: Nl
+Cons[Int](1, Cons[Int](2, Nl[Int]))
+                          ^^
+[0m2022.01.07 14:53:02 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.25s[0m
+Exception in thread "pool-9-thread-4" java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2503)
+	at scala.meta.internal.pc.SymbolPrinter.ownerTypeString$1(SymbolPrinter.scala:46)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-9-thread-5" java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2503)
+	at scala.meta.internal.pc.SymbolPrinter.ownerTypeString$1(SymbolPrinter.scala:46)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[31merror[39m: initial/src/example.worksheet.sc:4:8: 
+A case class must have at least one parameter list
+  case Nl[T] extends Lst[T]
+       ^^
+[31merror[39m: initial/src/example.worksheet.sc:6:27: 
+Not found: Nl
+Cons[Int](1, Cons[Int](2, Nl[Int]))
+                          ^^
+[0m2022.01.07 14:53:20 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.27s[0m
+Exception in thread "pool-9-thread-6" java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2503)
+	at scala.meta.internal.pc.SymbolPrinter.ownerTypeString$1(SymbolPrinter.scala:46)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[31merror[39m: initial/src/example.worksheet.sc:4:8: 
+A case class must have at least one parameter list
+  case Nl[T] extends Lst[T], Boob()
+       ^^
+[31merror[39m: initial/src/example.worksheet.sc:4:30: 
+class Boob is not a trait
+  case Nl[T] extends Lst[T], Boob()
+                             ^^^^^^
+[31merror[39m: initial/src/example.worksheet.sc:6:27: 
+Not found: Nl
+Cons[Int](1, Cons[Int](2, Nl[Int]))
+                          ^^
+[0m2022.01.07 14:53:45 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.27s[0m
+Jan 07, 2022 2:53:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1331
+[31merror[39m: initial/src/example.worksheet.sc:4:8: 
+A case class must have at least one parameter list
+  case Nl[T] extends Lst[T]
+       ^^
+[31merror[39m: initial/src/example.worksheet.sc:6:27: 
+Not found: Nl
+Cons[Int](1, Cons[Int](2, Nl[Int]))
+                          ^^
+[0m2022.01.07 14:53:47 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.3s[0m
+Exception in thread "pool-9-thread-7" java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2503)
+	at scala.meta.internal.pc.SymbolPrinter.ownerTypeString$1(SymbolPrinter.scala:46)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-9-thread-8" java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2503)
+	at scala.meta.internal.pc.SymbolPrinter.ownerTypeString$1(SymbolPrinter.scala:46)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-9-thread-9" java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2503)
+	at scala.meta.internal.pc.SymbolPrinter.ownerTypeString$1(SymbolPrinter.scala:46)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[31merror[39m: initial/src/example.worksheet.sc:4:8: 
+enum case does not extend its enum class Boob
+  case Nl[T]() extends Lst[T]
+       ^
+[31merror[39m: initial/src/example.worksheet.sc:6:27: 
+Not found: Nl
+Cons[Int](1, Cons[Int](2, Nl[Int]))
+                          ^^
+[0m2022.01.07 14:53:54 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.24s[0m
+Exception in thread "pool-9-thread-10" java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2503)
+	at scala.meta.internal.pc.SymbolPrinter.ownerTypeString$1(SymbolPrinter.scala:46)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-9-thread-11" java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2503)
+	at scala.meta.internal.pc.SymbolPrinter.ownerTypeString$1(SymbolPrinter.scala:46)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[31merror[39m: initial/src/example.worksheet.sc:4:32: 
+class Boob is not a trait
+  case Nl[T]() extends Lst[T], Boob()
+                               ^^^^^^
+[31merror[39m: initial/src/example.worksheet.sc:4:8: 
+enum case does not extend its enum class Boob
+  case Nl[T]() extends Lst[T], Boob()
+       ^
+[31merror[39m: initial/src/example.worksheet.sc:6:27: 
+Not found: Nl
+Cons[Int](1, Cons[Int](2, Nl[Int]))
+                          ^^
+[0m2022.01.07 14:54:07 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.25s[0m
+Jan 07, 2022 2:54:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1375
+Jan 07, 2022 2:54:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1376
+[31merror[39m: initial/src/example.worksheet.sc:4:32: 
+class Boob is not a trait
+  case Nl[T]() extends Lst[T], Boob
+                               ^^^^
+[31merror[39m: initial/src/example.worksheet.sc:4:8: 
+enum case does not extend its enum class Boob
+  case Nl[T]() extends Lst[T], Boob
+       ^
+[31merror[39m: initial/src/example.worksheet.sc:6:27: 
+Not found: Nl
+Cons[Int](1, Cons[Int](2, Nl[Int]))
+                          ^^
+[0m2022.01.07 14:54:10 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.25s[0m
+Exception in thread "pool-9-thread-12" java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2503)
+	at scala.meta.internal.pc.SymbolPrinter.ownerTypeString$1(SymbolPrinter.scala:46)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[31merror[39m: initial/src/example.worksheet.sc:6:27: 
+Not found: Nl
+Cons[Int](1, Cons[Int](2, Nl[Int]))
+                          ^^
+[0m2022.01.07 14:54:17 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.23s[0m
+[31merror[39m: initial/src/example.worksheet.sc:6:27: 
+Not found: Nl
+Cons[Int](1, Cons[Int](2, Nl[Int]))
+                          ^^
+[0m2022.01.07 14:54:19 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.24s[0m
+[31merror[39m: initial/src/example.worksheet.sc:7:27: 
+Not found: Nl
+Cons[Int](1, Cons[Int](2, Nl[Int]))
+                          ^^
+[0m2022.01.07 14:54:33 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.2s[0m
+[31merror[39m: initial/src/example.worksheet.sc:8:27: 
+method apply in object Nl must be called with () argument
+Cons[Int](1, Cons[Int](2, Nl[Int]))
+                          ^^^^^^^
+[0m2022.01.07 14:54:38 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.21s[0m
+Exception in thread "pool-9-thread-13" java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2503)
+	at scala.meta.internal.pc.SymbolPrinter.ownerTypeString$1(SymbolPrinter.scala:46)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[31merror[39m: initial/src/example.worksheet.sc:4:8: 
+A case class must have at least one parameter list
+  case Nl[T] extends Boob(), Lst[T]
+       ^^
+[31merror[39m: initial/src/example.worksheet.sc:8:27: 
+method apply in object Nl must be called with () argument
+Cons[Int](1, Cons[Int](2, Nl[Int]))
+                          ^^^^^^^
+[0m2022.01.07 14:54:50 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.21s[0m
+Exception in thread "pool-9-thread-14" java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2503)
+	at scala.meta.internal.pc.SymbolPrinter.ownerTypeString$1(SymbolPrinter.scala:46)
+	at scala.meta.internal.pc.SymbolPrinter.hoverDetailString(SymbolPrinter.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:337)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[31merror[39m: initial/src/example.worksheet.sc:5:8: 
+Not found: Boob
+import Boob.*
+       ^^^^
+[31merror[39m: 
+example.worksheet.sc:17 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import <error Not found: Boob>._
+    $doc.endStatement();
+
+
+[31merror[39m: 
+example.worksheet.sc:18 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import <error Not found: Boob>._
+    $doc.startStatement(6, 0, 6, 35);
+
+
+[31merror[39m: 
+example.worksheet.sc:21 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import <error Not found: Boob>._
+    $doc.binder(res0, 6, 0, 6, 35);
+
+
+[31merror[39m: 
+example.worksheet.sc:22 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import <error Not found: Boob>._
+    $doc.endStatement();
+
+
+[31merror[39m: 
+example.worksheet.sc:23 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import <error Not found: Boob>._
+    $doc.endSection();
+
+
+[0m2022.01.07 14:55:03 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.15s[0m
+[31merror[39m: initial/src/example.worksheet.sc:5:8: 
+Not found: Boob
+import Boob.*
+       ^^^^
+[31merror[39m: 
+example.worksheet.sc:17 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import <error Not found: Boob>._
+    $doc.endStatement();
+
+
+[31merror[39m: 
+example.worksheet.sc:18 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import <error Not found: Boob>._
+    $doc.startStatement(6, 0, 6, 35);
+
+
+[31merror[39m: initial/src/example.worksheet.sc:7:27: 
+Reference to constructor proxy for class Nl in class App
+shadows outer reference to value Nl
+Cons[Int](1, Cons[Int](2, Nl[Int]))
+                          ^^
+[31merror[39m: 
+example.worksheet.sc:21 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import <error Not found: Boob>._
+    $doc.binder(res0, 6, 0, 6, 35);
+
+
+[31merror[39m: 
+example.worksheet.sc:22 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import <error Not found: Boob>._
+    $doc.endStatement();
+
+
+[31merror[39m: 
+example.worksheet.sc:23 (mdoc generated code) 
+ Reference to $doc is ambiguous,
+it is both defined in object MdocSession
+and imported subsequently by import <error Not found: Boob>._
+    $doc.endSection();
+
+
+[0m2022.01.07 14:55:06 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.15s[0m
+[0m2022.01.07 14:55:15 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.48s[0m
+[0m2022.01.07 14:55:15 INFO  shutting down Metals[0m
+[0m2022.01.07 14:55:18 INFO  Started: Metals version 0.10.9 in workspace '/home/savely/scala-miscellanea' for client emacs GNU Emacs 28.0.90 (build 1, x86_64-pc-linux-gnu, GTK+ Version 3.24.27, cairo version 1.16.0).[0m
+[0m2022.01.07 14:55:20 INFO  time: initialize in 2.51s[0m
+[0m2022.01.07 14:55:21 WARN  Build server is not auto-connectable.[0m
+[0m2022.01.07 14:55:21 WARN  no build tool detected in workspace '/home/savely/scala-miscellanea'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Jan 07, 2022 2:55:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1517
+Jan 07, 2022 2:55:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1520
+Jan 07, 2022 2:55:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1523
+Default dialect is deprecated; use explicit: [Scala211,scala212,Scala212Source3,scala213,Scala213Source3,Sbt0137,Sbt1,scala3]
+Also see https://scalameta.org/scalafmt/docs/configuration.html#scala-dialects"
+[31merror[39m: initial/src/example.worksheet.sc:6:1: expected template body
+Cons[Int](1, Cons[Int](2, Nl[Int]))
+^^^^
+[0m2022.01.07 14:55:31 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+Jan 07, 2022 2:55:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1529
+Jan 07, 2022 2:55:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1550
+[0m2022.01.07 14:55:35 INFO  time: code lens generation in 3.18s[0m
+[0m2022.01.07 14:55:35 INFO  time: code lens generation in 11s[0m
+[0m2022.01.07 14:55:35 INFO  time: code lens generation in 12s[0m
+[0m2022.01.07 14:55:35 INFO  time: code lens generation in 12s[0m
+[0m2022.01.07 14:55:35 INFO  time: code lens generation in 12s[0m
+[0m2022.01.07 14:55:35 INFO  time: code lens generation in 3.13s[0m
+[0m2022.01.07 14:55:35 INFO  time: code lens generation in 3.09s[0m
+[0m2022.01.07 14:55:35 INFO  time: code lens generation in 1.97s[0m
+[0m2022.01.07 14:55:35 INFO  time: code lens generation in 13s[0m
+[0m2022.01.07 14:55:36 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2022.01.07 14:55:36 INFO  time: evaluated worksheet 'example.worksheet.sc' in 14s[0m
+Jan 07, 2022 2:55:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1553
+Jan 07, 2022 2:55:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1564
+[0m2022.01.07 14:55:50 INFO  time: evaluated worksheet 'example.worksheet.sc' in 2.41s[0m
+[0m2022.01.07 14:55:54 INFO  time: evaluated worksheet 'example.worksheet.sc' in 1.03s[0m
+Jan 07, 2022 2:55:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 7 is not a valid line number, allowed [0..6]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1555)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1554)
+	... 15 more
+
+Jan 07, 2022 2:55:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1594
+Jan 07, 2022 2:55:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1593
+Jan 07, 2022 2:56:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1617
+Jan 07, 2022 2:56:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1619
+Jan 07, 2022 2:56:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1618
+Jan 07, 2022 2:56:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1631
+Jan 07, 2022 2:56:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1630
+Jan 07, 2022 2:56:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1635
+[31merror[39m: initial/src/example.worksheet.sc:6:12: 
+class Cons needs to be abstract, since def isEmpty: Boolean in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]
+           ^
+[31merror[39m: initial/src/example.worksheet.sc:7:7: 
+class Nl needs to be abstract, since:
+it has 3 unimplemented members.
+/** As seen from class Nl, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  def head: T = ???
+  def isEmpty: Boolean = ???
+  def tail: App.this.Lst[T] = ???
+
+class Nl[T] extends Lst[T]:
+      ^
+[0m2022.01.07 14:56:40 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.61s[0m
+Jan 07, 2022 2:56:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1689
+[31merror[39m: initial/src/example.worksheet.sc:9:7: 
+class Nl needs to be abstract, since:
+it has 3 unimplemented members.
+/** As seen from class Nl, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  def head: T = ???
+  def isEmpty: Boolean = ???
+  def tail: App.this.Lst[T] = ???
+
+class Nl[T] extends Lst[T]:
+      ^
+[0m2022.01.07 14:56:58 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.54s[0m
+[31merror[39m: initial/src/example.worksheet.sc:9:7: 
+class Nl needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Nl, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  def head: T = ???
+  def tail: App.this.Lst[T] = ???
+
+class Nl[T] extends Lst[T]:
+      ^
+[0m2022.01.07 14:57:04 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.47s[0m
+[0m2022.01.07 14:57:23 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:9:7: stale mdoc error:
+class Nl needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Nl, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  def head: T = ???
+  def tail: App.this.Lst[T] = ???
+
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 14:57:23 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:9:7: stale mdoc error:
+class Nl needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Nl, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  def head: T = ???
+  def tail: App.this.Lst[T] = ???
+
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 14:57:23 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:9:7: stale mdoc error:
+class Nl needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Nl, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  def head: T = ???
+  def tail: App.this.Lst[T] = ???
+
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 14:57:23 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:9:7: stale mdoc error:
+class Nl needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Nl, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  def head: T = ???
+  def tail: App.this.Lst[T] = ???
+
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 14:57:23 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:9:7: stale mdoc error:
+class Nl needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Nl, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  def head: T = ???
+  def tail: App.this.Lst[T] = ???
+
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 14:57:23 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:9:7: stale mdoc error:
+class Nl needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Nl, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  def head: T = ???
+  def tail: App.this.Lst[T] = ???
+
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 14:57:24 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:9:7: stale mdoc error:
+class Nl needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Nl, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  def head: T = ???
+  def tail: App.this.Lst[T] = ???
+
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 14:57:23 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:9:7: stale mdoc error:
+class Nl needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Nl, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  def head: T = ???
+  def tail: App.this.Lst[T] = ???
+
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 14:57:24 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:9:7: stale mdoc error:
+class Nl needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Nl, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  def head: T = ???
+  def tail: App.this.Lst[T] = ???
+
+class Nl[T] extends Lst[T]:
+      ^[0m
+Jan 07, 2022 2:57:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1739
+[0m2022.01.07 14:57:24 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:9:7: stale mdoc error:
+class Nl needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Nl, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  def head: T = ???
+  def tail: App.this.Lst[T] = ???
+
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 14:57:24 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:9:7: stale mdoc error:
+class Nl needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Nl, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  def head: T = ???
+  def tail: App.this.Lst[T] = ???
+
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 14:57:24 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:9:7: stale mdoc error:
+class Nl needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Nl, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  def head: T = ???
+  def tail: App.this.Lst[T] = ???
+
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 14:57:24 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:9:7: stale mdoc error:
+class Nl needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Nl, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  def head: T = ???
+  def tail: App.this.Lst[T] = ???
+
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 14:57:24 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:9:7: stale mdoc error:
+class Nl needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Nl, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  def head: T = ???
+  def tail: App.this.Lst[T] = ???
+
+class Nl[T] extends Lst[T]:
+      ^[0m
+[31merror[39m: initial/src/example.worksheet.sc:9:7: 
+class Nl needs to be abstract, since def tail: App.this.Lst[T] in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^
+[0m2022.01.07 14:57:28 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.5s[0m
+[0m2022.01.07 14:57:37 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.81s[0m
+[31merror[39m: initial/src/example.worksheet.sc:7:12: 
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^
+[31merror[39m: initial/src/example.worksheet.sc:10:7: 
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^
+[0m2022.01.07 14:59:30 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.52s[0m
+Jan 07, 2022 2:59:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1800
+Jan 07, 2022 2:59:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1799
+Jan 07, 2022 2:59:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1804
+Jan 07, 2022 2:59:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1803
+Jan 07, 2022 2:59:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1806
+[0m2022.01.07 15:00:25 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:25 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:25 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:25 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:28 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:28 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:28 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:28 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:28 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:28 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:28 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:28 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:28 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:28 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:28 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:28 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:28 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:28 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:28 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:28 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:29 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:29 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:29 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:29 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:29 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:29 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:30 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:30 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:29 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:29 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:30 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:30 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:30 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:30 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:30 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:30 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+Exception in thread "pool-9-thread-1" java.lang.ClassCastException: class dotty.tools.dotc.core.Symbols$NoSymbol$ cannot be cast to class dotty.tools.dotc.core.Symbols$ClassSymbol (dotty.tools.dotc.core.Symbols$NoSymbol$ and dotty.tools.dotc.core.Symbols$ClassSymbol are in unnamed module of loader java.net.URLClassLoader @776fb59f)
+	at dotty.tools.dotc.core.Symbols$Symbol.asClass(Symbols.scala:172)
+	at dotty.tools.dotc.util.Signatures$.toSignature(Signatures.scala:82)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$11(ScalaPresentationCompiler.scala:384)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.signatureHelp$$anonfun$1(ScalaPresentationCompiler.scala:384)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-9-thread-2" java.lang.ClassCastException: class dotty.tools.dotc.core.Symbols$NoSymbol$ cannot be cast to class dotty.tools.dotc.core.Symbols$ClassSymbol (dotty.tools.dotc.core.Symbols$NoSymbol$ and dotty.tools.dotc.core.Symbols$ClassSymbol are in unnamed module of loader java.net.URLClassLoader @776fb59f)
+	at dotty.tools.dotc.core.Symbols$Symbol.asClass(Symbols.scala:172)
+	at dotty.tools.dotc.util.Signatures$.toSignature(Signatures.scala:82)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$11(ScalaPresentationCompiler.scala:384)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.signatureHelp$$anonfun$1(ScalaPresentationCompiler.scala:384)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-9-thread-3" java.lang.ClassCastException: class dotty.tools.dotc.core.Symbols$NoSymbol$ cannot be cast to class dotty.tools.dotc.core.Symbols$ClassSymbol (dotty.tools.dotc.core.Symbols$NoSymbol$ and dotty.tools.dotc.core.Symbols$ClassSymbol are in unnamed module of loader java.net.URLClassLoader @776fb59f)
+	at dotty.tools.dotc.core.Symbols$Symbol.asClass(Symbols.scala:172)
+	at dotty.tools.dotc.util.Signatures$.toSignature(Signatures.scala:82)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$11(ScalaPresentationCompiler.scala:384)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.signatureHelp$$anonfun$1(ScalaPresentationCompiler.scala:384)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-9-thread-4" java.lang.ClassCastException: class dotty.tools.dotc.core.Symbols$NoSymbol$ cannot be cast to class dotty.tools.dotc.core.Symbols$ClassSymbol (dotty.tools.dotc.core.Symbols$NoSymbol$ and dotty.tools.dotc.core.Symbols$ClassSymbol are in unnamed module of loader java.net.URLClassLoader @776fb59f)
+	at dotty.tools.dotc.core.Symbols$Symbol.asClass(Symbols.scala:172)
+	at dotty.tools.dotc.util.Signatures$.toSignature(Signatures.scala:82)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$11(ScalaPresentationCompiler.scala:384)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.signatureHelp$$anonfun$1(ScalaPresentationCompiler.scala:384)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[0m2022.01.07 15:00:35 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:35 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:35 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:35 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:36 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:36 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:36 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:36 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:38 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:38 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:38 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:38 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[0m2022.01.07 15:00:38 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:7:12: stale mdoc error:
+class Cons needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^[0m
+[0m2022.01.07 15:00:38 INFO  /home/savely/scala-miscellanea/initial/src/example.worksheet.sc:10:7: stale mdoc error:
+class Nl needs to be abstract, since def nth: T in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^[0m
+[31merror[39m: initial/src/example.worksheet.sc:15:49: unclosed string literal
+  def nth = throw new IndexOutOfBoundsException("Nil.nth(
+                                                ^
+[0m2022.01.07 15:00:39 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.43s[0m
+Jan 07, 2022 3:00:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1936
+Jan 07, 2022 3:00:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1935
+Jan 07, 2022 3:00:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1949
+Jan 07, 2022 3:00:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1948
+[31merror[39m: initial/src/example.worksheet.sc:7:12: 
+class Cons needs to be abstract, since def nth(n: Int): T in trait Lst in class App is not defined 
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^
+[0m2022.01.07 15:00:57 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.44s[0m
+Jan 07, 2022 3:01:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1979
+Jan 07, 2022 3:01:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1978
+Jan 07, 2022 3:01:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2008
+Jan 07, 2022 3:01:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2007
+[0m2022.01.07 15:01:16 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.78s[0m
+[0m2022.01.07 15:01:20 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.69s[0m
+[0m2022.01.07 15:01:43 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.69s[0m
+Jan 07, 2022 3:02:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2070
+Jan 07, 2022 3:02:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2069
+Jan 07, 2022 3:02:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2068
+Jan 07, 2022 3:02:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2067
+Jan 07, 2022 3:02:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2076
+Jan 07, 2022 3:02:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2081
+Jan 07, 2022 3:02:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2080
+[31merror[39m: initial/src/example.worksheet.sc:7:5: 
+Declaration of method foldl not allowed here: only classes can have declared but undefined members
+def foldl[B, A](f: B => A => B)(acc: B)(list: Lst[A]): Lst[B]
+    ^
+[0m2022.01.07 15:03:03 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.28s[0m
+[31merror[39m: initial/src/example.worksheet.sc:9:10: 
+Found:    App.this.Nl.type
+Required: App.this.Lst[A]
+pattern type is incompatible with expected type
+    case Nl => acc
+         ^^
+[31merror[39m: initial/src/example.worksheet.sc:9:16: 
+Found:    (acc : B)
+Required: App.this.Lst[B]
+    case Nl => acc
+               ^^^
+[0m2022.01.07 15:07:44 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.36s[0m
+Jan 07, 2022 3:07:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2338
+Jan 07, 2022 3:07:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2337
+[31merror[39m: initial/src/example.worksheet.sc:9:26: 
+Found:    (acc : B)
+Required: App.this.Lst[B]
+    if list.isEmpty then acc
+                         ^^^
+[0m2022.01.07 15:08:29 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.3s[0m
+[0m2022.01.07 15:08:40 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.6s[0m
+[31merror[39m: initial/src/example.worksheet.sc:9:10: 
+Found:    App.this.Nl.type
+Required: App.this.Lst[A]
+pattern type is incompatible with expected type
+    case Nl => acc
+         ^^
+[0m2022.01.07 15:08:55 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.35s[0m
+[31merror[39m: initial/src/example.worksheet.sc:9:10: 
+Found:    App.this.Nl.type
+Required: App.this.Lst[A]
+pattern type is incompatible with expected type
+    case Nl: Lst[A] => acc
+         ^^
+[0m2022.01.07 15:09:04 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.34s[0m
+[31merror[39m: initial/src/example.worksheet.sc:9:11: 
+Found:    App.this.Nl.type
+Required: App.this.Lst[A]
+pattern type is incompatible with expected type
+    case (Nl: Lst[A]) => acc
+          ^^
+[0m2022.01.07 15:09:14 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.3s[0m
+Jan 07, 2022 3:09:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2484
+Jan 07, 2022 3:09:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2483
+Jan 07, 2022 3:09:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2482
+Jan 07, 2022 3:09:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2481
+Jan 07, 2022 3:09:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2489
+Jan 07, 2022 3:09:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2488
+[31merror[39m: initial/src/example.worksheet.sc:11:3: end of file expected but } found
+  }
+  ^
+[0m2022.01.07 15:09:42 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.32s[0m
+[0m2022.01.07 15:09:44 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.53s[0m
+[0m2022.01.07 15:09:51 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.65s[0m
+[0m2022.01.07 15:10:04 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.54s[0m
+Jan 07, 2022 3:11:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2557
+[31merror[39m: initial/src/example.worksheet.sc:16:21: 
+Found:    ((Nothing, Any) => Nothing) => Nothing => App.this.Lst[Any] => Nothing
+Required: T
+  def nth(n: Int) = foldl
+                    ^^^^^
+[0m2022.01.07 15:11:19 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.42s[0m
+[31merror[39m: initial/src/example.worksheet.sc:8:12: 
+class Cons needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Cons, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  def foldl: [B, A](f: (B, A) => B)(acc: B)(list: App.this.Lst[T]): B = ???
+  def nth(n: Int): T = ???
+
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^
+[31merror[39m: initial/src/example.worksheet.sc:11:7: 
+class Nl needs to be abstract, since def foldl: [B, A](f: (B, A) => B)(acc: B)(list: App.this.Lst[T]): B in trait Lst in class App is not defined 
+class Nl[T] extends Lst[T]:
+      ^
+[0m2022.01.07 15:12:09 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.33s[0m
+[31merror[39m: initial/src/example.worksheet.sc:8:12: 
+class Cons needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Cons, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  // Members declared in repl.MdocSession$.App.Cons
+  def foldl: [B, A](f: (B, A) => B)(acc: B)(list: App.this.Lst[T]): B = ???
+  
+  // Members declared in repl.MdocSession$.App.Lst
+  def foldl: [B, A](f: (B, A) => B)(acc: B)(list: App.this.Lst[T]): B = ???
+
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^
+[31merror[39m: initial/src/example.worksheet.sc:12:7: 
+class Nl needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Nl, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  // Members declared in repl.MdocSession$.App.Lst
+  def foldl: [B, A](f: (B, A) => B)(acc: B)(list: App.this.Lst[T]): B = ???
+  
+  // Members declared in repl.MdocSession$.App.Nl
+  def foldl: [B, A](f: (B, A) => B)(acc: B)(list: App.this.Lst[T]): B = ???
+
+class Nl[T] extends Lst[T]:
+      ^
+[0m2022.01.07 15:12:39 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.34s[0m
+[31merror[39m: initial/src/example.worksheet.sc:8:12: 
+class Cons needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Cons, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  // Members declared in repl.MdocSession$.App.Cons
+  def foldl: [B, A](f: (B, A) => B)(acc: B)(list: App.this.Lst[T]): B = ???
+  
+  // Members declared in repl.MdocSession$.App.Lst
+  def foldl: [B, A](f: (B, A) => B)(acc: B)(list: App.this.Lst[T]): B = ???
+
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^
+[0m2022.01.07 15:12:44 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.34s[0m
+[31merror[39m: initial/src/example.worksheet.sc:8:12: 
+class Cons needs to be abstract, since:
+it has 2 unimplemented members.
+/** As seen from class Cons, the missing signatures are as follows.
+ *  For convenience, these are usable as stub implementations.
+ */
+  // Members declared in repl.MdocSession$.App.Cons
+  def foldl: [B, A](f: (B, A) => B)(acc: B)(list: App.this.Lst[T]): B = ???
+  
+  // Members declared in repl.MdocSession$.App.Lst
+  def foldl: [B, A](f: (B, A) => B)(acc: B)(list: App.this.Lst[T]): B = ???
+
+case class Cons[T](head: T, tail: Lst[T]) extends Lst[T]:
+           ^
+[0m2022.01.07 15:12:47 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.33s[0m
+[31merror[39m: initial/src/example.worksheet.sc:10:61: illegal start of simple expression
+  def foldl[B, A](f: (B, A) => B)(acc: B)(list: Lst[T]): B =
+                                                            ^
+[0m2022.01.07 15:13:21 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.32s[0m
+[31merror[39m: initial/src/example.worksheet.sc:10:47: illegal start of simple expression
+  def foldl[B, A](f: (B, A) => B)(acc: B): B =
+                                              ^
+[0m2022.01.07 15:13:31 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.28s[0m
+[31merror[39m: initial/src/example.worksheet.sc:10:47: illegal start of simple expression
+  def foldl[B, A](f: (B, A) => B)(acc: B): B =
+                                              ^
+[0m2022.01.07 15:13:34 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.34s[0m
+Jan 07, 2022 3:14:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2748
+Jan 07, 2022 3:14:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2755
+Jan 07, 2022 3:14:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2756
+[31merror[39m: initial/src/example.worksheet.sc:10:69: 
+Found:    (Cons.this.head : T)
+Required: A
+  def foldl[B, A](f: (B, A) => B)(acc: B): B = tail.foldl(f)(f(acc, head))
+                                                                    ^^^^
+[0m2022.01.07 15:14:23 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.26s[0m
+[31merror[39m: initial/src/example.worksheet.sc:10:69: 
+Found:    (Cons.this.head : T)
+Required: T²
+
+where:    T  is a type in class Cons
+          T² is a type in method foldl
+
+  def foldl[B, T](f: (B, T) => B)(acc: B): B = tail.foldl(f)(f(acc, head))
+                                                                    ^^^^
+[0m2022.01.07 15:14:37 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.28s[0m
+[31merror[39m: initial/src/example.worksheet.sc:10:69: 
+Found:    (Cons.this.head : T)
+Required: T²
+
+where:    T  is a type in class Cons
+          T² is a type in method foldl
+
+  def foldl[B, T](f: (B, T) => B)(acc: B): B = tail.foldl(f)(f(acc, head))
+                                                                    ^^^^
+[0m2022.01.07 15:14:42 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.25s[0m
+[31merror[39m: initial/src/example.worksheet.sc:8:26: 
+Not found: type A
+case class Cons[T](head: A, tail: Lst[A]) extends Lst[T]:
+                         ^
+[31merror[39m: initial/src/example.worksheet.sc:8:39: 
+Not found: type A
+case class Cons[T](head: A, tail: Lst[A]) extends Lst[T]:
+                                      ^
+[0m2022.01.07 15:14:59 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.23s[0m
+[31merror[39m: initial/src/example.worksheet.sc:8:26: 
+Not found: type A
+case class Cons[T](head: A, tail: Lst[A]) extends Lst[T]:
+                         ^
+[31merror[39m: initial/src/example.worksheet.sc:8:39: 
+Not found: type A
+case class Cons[T](head: A, tail: Lst[A]) extends Lst[T]:
+                                      ^
+[0m2022.01.07 15:15:07 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.22s[0m
+[31merror[39m: initial/src/example.worksheet.sc:13:7: 
+class Nl needs to be abstract, since def foldl: [B](f: (B, A) => B)(acc: B): B in trait Lst in class App is not defined 
+(Note that
+ parameter (B, A) => B in def foldl: [B](f: (B, A) => B)(acc: B): B in trait Lst in class App does not match
+ parameter (B, A) => B in def foldl: [B, A](f: (B, A) => B)(acc: B): B in class Nl in class App
+ their type parameters differ)
+class Nl[T] extends Lst[T]:
+      ^
+[0m2022.01.07 15:15:22 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.31s[0m
+[0m2022.01.07 15:15:31 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.47s[0m
+Jan 07, 2022 3:16:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2937
+Jan 07, 2022 3:16:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2936
+Jan 07, 2022 3:16:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2940
+Jan 07, 2022 3:17:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2951
+Jan 07, 2022 3:17:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2950
+Jan 07, 2022 3:17:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2960
+Jan 07, 2022 3:17:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2959
+[31merror[39m: initial/src/example.worksheet.sc:5:20: 
+Not found: type T
+  def nth(n: Int): T
+                   ^
+[0m2022.01.07 15:17:17 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.22s[0m
+[31merror[39m: initial/src/example.worksheet.sc:8:12: 
+class Cons needs to be abstract, since def nth(n: Int): A in trait Lst in class App is not defined 
+case class Cons[A](head: A, tail: Lst[A]) extends Lst[A]:
+           ^
+[0m2022.01.07 15:17:23 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.27s[0m
+Jan 07, 2022 3:17:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3007
+Jan 07, 2022 3:17:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3006
+[0m2022.01.07 15:17:31 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.47s[0m
+[0m2022.01.07 15:17:33 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.61s[0m
+[31merror[39m: initial/src/example.worksheet.sc:11:28: 
+Found:    Nothing => Nothing
+Required: (Nothing, A) => Nothing
+  def nth(n: Int) = foldl (identity)(n)
+                           ^^^^^^^^
+[31merror[39m: initial/src/example.worksheet.sc:11:38: 
+Found:    (n : Int)
+Required: Nothing
+  def nth(n: Int) = foldl (identity)(n)
+                                     ^
+[0m2022.01.07 15:18:21 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.26s[0m
+Jan 07, 2022 3:18:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3076
+Jan 07, 2022 3:18:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3077
+Jan 07, 2022 3:18:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3078
+Jan 07, 2022 3:18:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3079
+Jan 07, 2022 3:18:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3080
+Jan 07, 2022 3:18:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3085
+Jan 07, 2022 3:18:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3087
+Jan 07, 2022 3:18:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3088
+Jan 07, 2022 3:18:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3089
+Jan 07, 2022 3:18:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3090
+Jan 07, 2022 3:18:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3091
+Jan 07, 2022 3:18:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3092
+Jan 07, 2022 3:18:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3093
+Jan 07, 2022 3:18:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3097
+Jan 07, 2022 3:18:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3098
+Jan 07, 2022 3:18:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3099
+Jan 07, 2022 3:18:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3100
+Jan 07, 2022 3:18:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3101
+Jan 07, 2022 3:19:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3165
+Jan 07, 2022 3:19:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3164
+[31merror[39m: initial/src/example.worksheet.sc:11:21: 
+method foldl in class Cons does not take more parameters
+  def nth(n: Int) = this.foldl((acc, x) => ??? )(identity)(n)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[0m2022.01.07 15:19:13 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.26s[0m
+Jan 07, 2022 3:19:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3192
+[31merror[39m: initial/src/example.worksheet.sc:11:21: 
+Found:    Any
+Required: A
+  def nth(n: Int) = this.foldl((acc, x) => ??? )(identity)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[0m2022.01.07 15:19:25 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.26s[0m
+[31merror[39m: initial/src/example.worksheet.sc:11:21: 
+Found:    Any
+Required: A
+  def nth(n: Int) = this.foldl((acc, x) => ??? )(identity)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[0m2022.01.07 15:20:55 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.2s[0m
+Jan 07, 2022 3:22:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3240
+Jan 07, 2022 3:22:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3239
+Jan 07, 2022 3:25:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3270
+Jan 07, 2022 3:25:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3269
+Jan 07, 2022 3:27:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3304
+Jan 07, 2022 3:27:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3303
+Jan 07, 2022 3:27:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3307
+Jan 07, 2022 3:27:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3306
+Jan 07, 2022 3:27:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3312
+[31merror[39m: initial/src/example.worksheet.sc:13:11: 
+end of statement expected but '=' found
+f acc x n = if n == 0 then x else acc x (n - 1)
+          ^
+[31merror[39m: 
+unindent expected, but eof found
+[31merror[39m: initial/src/example.worksheet.sc:11:43: 
+Missing parameter type
+
+I could not infer the type of the parameter n.
+  def nth(n: Int) = this.foldl((acc,x) => n => if n == 0 then x else acc x (n - 1))(identity)(n)
+                                          ^
+[31merror[39m: initial/src/example.worksheet.sc:11:70: 
+value x is not a member of Any
+  def nth(n: Int) = this.foldl((acc,x) => n => if n == 0 then x else acc x (n - 1))(identity)(n)
+                                                                     ^^^^^
+[31merror[39m: initial/src/example.worksheet.sc:13:1: 
+postfix operator `n` needs to be enabled
+by making the implicit value scala.language.postfixOps visible.
+----
+This can be achieved by adding the import clause 'import scala.language.postfixOps'
+or by setting the compiler option -language:postfixOps.
+See the Scaladoc for value scala.language.postfixOps for a discussion
+why the feature needs to be explicitly enabled.
+f acc x n = if n == 0 then x else acc x (n - 1)
+^^^^^^^
+[0m2022.01.07 15:28:16 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.24s[0m
+[31merror[39m: initial/src/example.worksheet.sc:13:11: 
+end of statement expected but '=' found
+f acc x n = if n == 0 then x else acc x (n - 1)
+          ^
+[31merror[39m: 
+unindent expected, but eof found
+[31merror[39m: initial/src/example.worksheet.sc:11:43: 
+Missing parameter type
+
+I could not infer the type of the parameter n.
+  def nth(n: Int) = this.foldl((acc,x) => n => if n == 0 then x else acc(x, (n - 1)))(identity)(n)
+                                          ^
+[31merror[39m: initial/src/example.worksheet.sc:11:70: 
+parameter acc does not take parameters
+  def nth(n: Int) = this.foldl((acc,x) => n => if n == 0 then x else acc(x, (n - 1)))(identity)(n)
+                                                                     ^^^
+[31merror[39m: initial/src/example.worksheet.sc:13:1: 
+postfix operator `n` needs to be enabled
+by making the implicit value scala.language.postfixOps visible.
+----
+This can be achieved by adding the import clause 'import scala.language.postfixOps'
+or by setting the compiler option -language:postfixOps.
+See the Scaladoc for value scala.language.postfixOps for a discussion
+why the feature needs to be explicitly enabled.
+f acc x n = if n == 0 then x else acc x (n - 1)
+^^^^^^^
+[0m2022.01.07 15:28:26 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.19s[0m
+Jan 07, 2022 3:28:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3382
+Jan 07, 2022 3:28:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3381
+Jan 07, 2022 3:28:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3419
+Jan 07, 2022 3:28:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3418
+Jan 07, 2022 3:28:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3417
+[31merror[39m: initial/src/example.worksheet.sc:13:11: 
+end of statement expected but '=' found
+f acc x n = if n == 0 then x else acc x (n - 1)
+          ^
+[31merror[39m: 
+unindent expected, but eof found
+[31merror[39m: initial/src/example.worksheet.sc:11:92: 
+Found:    (A, Int)
+Required: Int
+  def nth(n: Int) = this.foldl((acc: (Int => A),x) => (n:Int) => if n == 0 then x else acc(x, (n - 1)))(identity)(n)
+                                                                                           ^^^^^^^^^^
+[31merror[39m: initial/src/example.worksheet.sc:11:105: 
+Found:    (x : Int)
+Required: A
+  def nth(n: Int) = this.foldl((acc: (Int => A),x) => (n:Int) => if n == 0 then x else acc(x, (n - 1)))(identity)(n)
+                                                                                                        ^
+[31merror[39m: initial/src/example.worksheet.sc:13:1: 
+postfix operator `n` needs to be enabled
+by making the implicit value scala.language.postfixOps visible.
+----
+This can be achieved by adding the import clause 'import scala.language.postfixOps'
+or by setting the compiler option -language:postfixOps.
+See the Scaladoc for value scala.language.postfixOps for a discussion
+why the feature needs to be explicitly enabled.
+f acc x n = if n == 0 then x else acc x (n - 1)
+^^^^^^^
+[0m2022.01.07 15:28:55 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.37s[0m
+Jan 07, 2022 3:29:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3457
+Jan 07, 2022 3:29:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3456
+Jan 07, 2022 3:29:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3455
+Jan 07, 2022 3:29:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3454
+[31merror[39m: initial/src/example.worksheet.sc:13:11: 
+end of statement expected but '=' found
+f acc x n = if n == 0 then x else acc x (n - 1)
+          ^
+[31merror[39m: 
+unindent expected, but eof found
+[31merror[39m: initial/src/example.worksheet.sc:11:32: 
+Found:    ((A, Int) => A, A) => Int => A
+Required: (Int => A, A) => Int => A
+  def nth(n: Int) = this.foldl((acc: ((A, Int) => A),x) => (n:Int) => if n == 0 then x else acc(x, (n - 1)))(identity)(n)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[31merror[39m: initial/src/example.worksheet.sc:11:110: 
+Found:    (x : Int)
+Required: A
+  def nth(n: Int) = this.foldl((acc: ((A, Int) => A),x) => (n:Int) => if n == 0 then x else acc(x, (n - 1)))(identity)(n)
+                                                                                                             ^
+[31merror[39m: initial/src/example.worksheet.sc:13:1: 
+postfix operator `n` needs to be enabled
+by making the implicit value scala.language.postfixOps visible.
+----
+This can be achieved by adding the import clause 'import scala.language.postfixOps'
+or by setting the compiler option -language:postfixOps.
+See the Scaladoc for value scala.language.postfixOps for a discussion
+why the feature needs to be explicitly enabled.
+f acc x n = if n == 0 then x else acc x (n - 1)
+^^^^^^^
+[0m2022.01.07 15:29:11 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.27s[0m
+[31merror[39m: initial/src/example.worksheet.sc:13:11: 
+end of statement expected but '=' found
+f acc x n = if n == 0 then x else acc x (n - 1)
+          ^
+[31merror[39m: 
+unindent expected, but eof found
+[31merror[39m: initial/src/example.worksheet.sc:11:21: 
+Found:    Any
+Required: A
+  def nth(n: Int) = this.foldl((acc,x) => ??? )(identity)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[31merror[39m: initial/src/example.worksheet.sc:13:1: 
+postfix operator `n` needs to be enabled
+by making the implicit value scala.language.postfixOps visible.
+----
+This can be achieved by adding the import clause 'import scala.language.postfixOps'
+or by setting the compiler option -language:postfixOps.
+See the Scaladoc for value scala.language.postfixOps for a discussion
+why the feature needs to be explicitly enabled.
+f acc x n = if n == 0 then x else acc x (n - 1)
+^^^^^^^
+[0m2022.01.07 15:29:25 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.21s[0m
+[0m2022.01.07 15:29:34 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.54s[0m
+Jan 07, 2022 3:59:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3552
+Jan 07, 2022 3:59:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3551
+Jan 07, 2022 3:59:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3550
+Jan 07, 2022 3:59:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3548
+Jan 07, 2022 4:22:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3634
+Jan 07, 2022 4:22:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3633
+Jan 07, 2022 4:23:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3656
+Jan 07, 2022 4:23:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3655
+Jan 07, 2022 4:23:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3654
+Jan 07, 2022 4:25:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3703
+Jan 07, 2022 4:25:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3702
+Jan 07, 2022 4:25:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3718
+Jan 07, 2022 4:25:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3725
+Jan 07, 2022 4:25:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3724
+[0m2022.01.07 16:25:23 INFO  shutting down Metals[0m
+[0m2022.01.07 16:25:25 INFO  Started: Metals version 0.10.9 in workspace '/home/savely/scala-miscellanea' for client emacs GNU Emacs 28.0.90 (build 1, x86_64-pc-linux-gnu, GTK+ Version 3.24.27, cairo version 1.16.0).[0m
+[0m2022.01.07 16:25:27 INFO  time: initialize in 2.5s[0m
+[0m2022.01.07 16:25:28 WARN  Build server is not auto-connectable.[0m
+[0m2022.01.07 16:25:28 WARN  no build tool detected in workspace '/home/savely/scala-miscellanea'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Default dialect is deprecated; use explicit: [Scala211,scala212,Scala212Source3,scala213,Scala213Source3,Sbt0137,Sbt1,scala3]
+Also see https://scalameta.org/scalafmt/docs/configuration.html#scala-dialects"
+[0m2022.01.07 16:25:37 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[31merror[39m: initial/src/example.worksheet.sc:11:44: 
+Missing parameter type
+
+I could not infer the type of the parameter n.
+  def nth(n: Int) = this.foldl((acc,x) => (n => if n == 0 then x else acc(x, n - 1)))((x, _) => x)(n)
+                                           ^
+[31merror[39m: initial/src/example.worksheet.sc:11:71: 
+parameter acc does not take parameters
+  def nth(n: Int) = this.foldl((acc,x) => (n => if n == 0 then x else acc(x, n - 1)))((x, _) => x)(n)
+                                                                      ^^^
+[31merror[39m: initial/src/example.worksheet.sc:11:88: 
+Missing parameter type
+
+I could not infer the type of the parameter x.
+  def nth(n: Int) = this.foldl((acc,x) => (n => if n == 0 then x else acc(x, n - 1)))((x, _) => x)(n)
+                                                                                       ^
+[31merror[39m: initial/src/example.worksheet.sc:11:91: 
+Missing parameter type
+
+I could not infer the type of the parameter _$1 of expanded function:
+(x, _$1) => x.
+  def nth(n: Int) = this.foldl((acc,x) => (n => if n == 0 then x else acc(x, n - 1)))((x, _) => x)(n)
+                                                                                          ^
+[0m2022.01.07 16:25:41 INFO  time: code lens generation in 11s[0m
+[0m2022.01.07 16:25:41 INFO  time: code lens generation in 11s[0m
+[0m2022.01.07 16:25:41 INFO  time: code lens generation in 12s[0m
+[0m2022.01.07 16:25:42 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2022.01.07 16:25:41 INFO  time: evaluated worksheet 'example.worksheet.sc' in 13s[0m
+Jan 07, 2022 4:27:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3847
+Jan 07, 2022 4:27:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3846
+Jan 07, 2022 4:27:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3845
+Jan 07, 2022 4:27:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3844
+Jan 07, 2022 4:28:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3866
+Jan 07, 2022 4:28:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3865
+Jan 07, 2022 4:28:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3864
+Jan 07, 2022 4:28:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3867
+Jan 07, 2022 4:28:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3874
+Jan 07, 2022 4:28:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3873
+[31merror[39m: initial/src/example.worksheet.sc:12:17: 
+not a legal formal parameter
+    this.foldl(((acc: (A, Int) => A), (x: A)) => (m => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                ^^^^^^^^^^^^^^^^^^^^
+[31merror[39m: initial/src/example.worksheet.sc:12:39: 
+not a legal formal parameter
+    this.foldl(((acc: (A, Int) => A), (x: A)) => (m => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                      ^^^^^^
+[31merror[39m: initial/src/example.worksheet.sc:12:51: 
+Missing parameter type
+
+I could not infer the type of the parameter m.
+    this.foldl(((acc: (A, Int) => A), (x: A)) => (m => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                                  ^
+[31merror[39m: initial/src/example.worksheet.sc:12:71: 
+Not found: x
+    this.foldl(((acc: (A, Int) => A), (x: A)) => (m => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                                                      ^
+[31merror[39m: initial/src/example.worksheet.sc:12:78: 
+Not found: acc
+    this.foldl(((acc: (A, Int) => A), (x: A)) => (m => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                                                             ^^^
+[31merror[39m: initial/src/example.worksheet.sc:12:82: 
+Not found: x
+    this.foldl(((acc: (A, Int) => A), (x: A)) => (m => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                                                                 ^
+[31merror[39m: initial/src/example.worksheet.sc:12:95: 
+Missing parameter type
+
+I could not infer the type of the parameter x.
+    this.foldl(((acc: (A, Int) => A), (x: A)) => (m => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                                                                              ^
+[31merror[39m: initial/src/example.worksheet.sc:12:98: 
+Missing parameter type
+
+I could not infer the type of the parameter _$1 of expanded function:
+(x, _$1) => x.
+    this.foldl(((acc: (A, Int) => A), (x: A)) => (m => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                                                                                 ^
+[0m2022.01.07 16:28:09 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.72s[0m
+[31merror[39m: initial/src/example.worksheet.sc:12:17: 
+not a legal formal parameter
+    this.foldl(((acc: (A, Int) => A), (x: A)) => ((m: Int) => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                ^^^^^^^^^^^^^^^^^^^^
+[31merror[39m: initial/src/example.worksheet.sc:12:39: 
+not a legal formal parameter
+    this.foldl(((acc: (A, Int) => A), (x: A)) => ((m: Int) => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                      ^^^^^^
+[31merror[39m: initial/src/example.worksheet.sc:12:78: 
+Not found: x
+    this.foldl(((acc: (A, Int) => A), (x: A)) => ((m: Int) => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                                                             ^
+[31merror[39m: initial/src/example.worksheet.sc:12:85: 
+Not found: acc
+    this.foldl(((acc: (A, Int) => A), (x: A)) => ((m: Int) => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                                                                    ^^^
+[31merror[39m: initial/src/example.worksheet.sc:12:89: 
+Not found: x
+    this.foldl(((acc: (A, Int) => A), (x: A)) => ((m: Int) => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                                                                        ^
+[31merror[39m: initial/src/example.worksheet.sc:12:101: 
+Wrong number of parameters, expected: 1
+    this.foldl(((acc: (A, Int) => A), (x: A)) => ((m: Int) => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                                                                                    ^^^^^^^^^^^
+[0m2022.01.07 16:28:13 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.7s[0m
+Jan 07, 2022 4:28:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3906
+[31merror[39m: initial/src/example.worksheet.sc:12:17: 
+not a legal formal parameter
+    this.foldl(((acc: (A,Int) => A), (x: A)) => ((m: Int) => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                ^^^^^^^^^^^^^^^^^^^
+[31merror[39m: initial/src/example.worksheet.sc:12:38: 
+not a legal formal parameter
+    this.foldl(((acc: (A,Int) => A), (x: A)) => ((m: Int) => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                     ^^^^^^
+[31merror[39m: initial/src/example.worksheet.sc:12:77: 
+Not found: x
+    this.foldl(((acc: (A,Int) => A), (x: A)) => ((m: Int) => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                                                            ^
+[31merror[39m: initial/src/example.worksheet.sc:12:84: 
+Not found: acc
+    this.foldl(((acc: (A,Int) => A), (x: A)) => ((m: Int) => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                                                                   ^^^
+[31merror[39m: initial/src/example.worksheet.sc:12:88: 
+Not found: x
+    this.foldl(((acc: (A,Int) => A), (x: A)) => ((m: Int) => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                                                                       ^
+[31merror[39m: initial/src/example.worksheet.sc:12:100: 
+Wrong number of parameters, expected: 1
+    this.foldl(((acc: (A,Int) => A), (x: A)) => ((m: Int) => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                                                                                   ^^^^^^^^^^^
+[0m2022.01.07 16:28:30 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.57s[0m
+[31merror[39m: initial/src/example.worksheet.sc:12:20: 
+not a legal formal parameter
+    this.foldl[A](((acc: (A,Int) => A), (x: A)) => ((m: Int) => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                   ^^^^^^^^^^^^^^^^^^^
+[31merror[39m: initial/src/example.worksheet.sc:12:41: 
+not a legal formal parameter
+    this.foldl[A](((acc: (A,Int) => A), (x: A)) => ((m: Int) => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                        ^^^^^^
+[31merror[39m: initial/src/example.worksheet.sc:12:80: 
+Not found: x
+    this.foldl[A](((acc: (A,Int) => A), (x: A)) => ((m: Int) => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                                                               ^
+[31merror[39m: initial/src/example.worksheet.sc:12:87: 
+Not found: acc
+    this.foldl[A](((acc: (A,Int) => A), (x: A)) => ((m: Int) => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                                                                      ^^^
+[31merror[39m: initial/src/example.worksheet.sc:12:91: 
+Not found: x
+    this.foldl[A](((acc: (A,Int) => A), (x: A)) => ((m: Int) => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                                                                          ^
+[31merror[39m: initial/src/example.worksheet.sc:12:104: 
+Missing parameter type
+
+I could not infer the type of the parameter x.
+    this.foldl[A](((acc: (A,Int) => A), (x: A)) => ((m: Int) => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                                                                                       ^
+[31merror[39m: initial/src/example.worksheet.sc:12:107: 
+Missing parameter type
+
+I could not infer the type of the parameter _$1 of expanded function:
+(x, _$1) => x.
+    this.foldl[A](((acc: (A,Int) => A), (x: A)) => ((m: Int) => if m == 0 then x else acc(x, m - 1)))((x, _) => x)(n)
+                                                                                                          ^
+[0m2022.01.07 16:28:44 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.52s[0m
+[0m2022.01.07 16:28:57 INFO  time: evaluated worksheet 'example.worksheet.sc' in 1.77s[0m
+Jan 07, 2022 4:48:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4315
+Jan 07, 2022 4:48:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4314
+[0m2022.01.07 16:48:15 INFO  time: evaluated worksheet 'example.worksheet.sc' in 1.22s[0m
+[0m2022.01.07 17:45:55 INFO  shutting down Metals[0m
+[0m2022.01.07 20:03:26 INFO  Started: Metals version 0.10.9 in workspace '/home/savely/scala-miscellanea' for client emacs GNU Emacs 28.0.90 (build 1, x86_64-pc-linux-gnu, GTK+ Version 3.24.27, cairo version 1.16.0).[0m
+[0m2022.01.07 20:03:29 INFO  time: initialize in 2.87s[0m
+[0m2022.01.07 20:03:30 WARN  Build server is not auto-connectable.[0m
+[0m2022.01.07 20:03:30 WARN  no build tool detected in workspace '/home/savely/scala-miscellanea'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.01.07 20:03:30 WARN  no build target for: /home/savely/scala-miscellanea/initial/src/main/scala/Main.scala[0m
+Default dialect is deprecated; use explicit: [Scala211,scala212,Scala212Source3,scala213,Scala213Source3,Sbt0137,Sbt1,scala3]
+Also see https://scalameta.org/scalafmt/docs/configuration.html#scala-dialects"
+[0m2022.01.07 20:03:36 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+Jan 07, 2022 8:03:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3163
+Jan 07, 2022 8:03:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3168
+Jan 07, 2022 8:03:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 25 is not a valid line number, allowed [0..24]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1555)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1554)
+	... 16 more
+
+Jan 07, 2022 8:03:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3172
+[0m2022.01.07 20:03:39 WARN  no build target for: /home/savely/scala-miscellanea/initial/src/main/scala/Main.scala[0m
+[0m2022.01.07 20:03:40 INFO  time: code lens generation in 2.54s[0m
+[0m2022.01.07 20:03:40 INFO  time: code lens generation in 2.69s[0m
+[0m2022.01.07 20:03:40 INFO  time: code lens generation in 9.71s[0m
+[0m2022.01.07 20:03:40 INFO  time: code lens generation in 8.6s[0m
+Jan 07, 2022 8:03:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3184
+Jan 07, 2022 8:03:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 29 is not a valid line number, allowed [0..28]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1555)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1554)
+	... 16 more
+
+Jan 07, 2022 8:04:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3214
+Jan 07, 2022 8:04:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3213
+[0m2022.01.07 20:04:17 WARN  no build target for: /home/savely/scala-miscellanea/initial/src/main/scala/Main.scala[0m
+[0m2022.01.07 20:04:21 WARN  no build target for: /home/savely/scala-miscellanea/initial/src/main/scala/Main.scala[0m
+Jan 07, 2022 8:04:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3249
+[0m2022.01.07 20:04:25 INFO  shutting down Metals[0m
+[0m2022.01.07 20:05:27 INFO  Started: Metals version 0.10.9 in workspace '/home/savely/scala-miscellanea' for client emacs GNU Emacs 28.0.90 (build 1, x86_64-pc-linux-gnu, GTK+ Version 3.24.27, cairo version 1.16.0).[0m
+[0m2022.01.07 20:05:30 INFO  time: initialize in 3.08s[0m
+[0m2022.01.07 20:05:30 WARN  Build server is not auto-connectable.[0m
+[0m2022.01.07 20:05:30 WARN  no build tool detected in workspace '/home/savely/scala-miscellanea'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.01.07 20:05:31 WARN  no build target for: /home/savely/scala-miscellanea/initial/src/main/scala/Main.scala[0m
+Default dialect is deprecated; use explicit: [Scala211,scala212,Scala212Source3,scala213,Scala213Source3,Sbt0137,Sbt1,scala3]
+Also see https://scalameta.org/scalafmt/docs/configuration.html#scala-dialects"
+[0m2022.01.07 20:05:39 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2022.01.07 20:05:43 INFO  time: code lens generation in 12s[0m
+[0m2022.01.07 20:05:43 INFO  time: code lens generation in 11s[0m
+[0m2022.01.07 20:05:43 INFO  time: code lens generation in 11s[0m

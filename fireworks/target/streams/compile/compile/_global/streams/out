@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /home/savely/scala-miscellanea/fireworks/src/main/scala/fireworks/Fireworks.scala:37:12 -----------------------------------------------------------------------------------------------------------------------[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m37 |[0m    [33mcase[0m f: Done => Done[0m
+[0m[[0m[31merror[0m] [0m[0m   |            [31m^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |            Not found: type Done[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

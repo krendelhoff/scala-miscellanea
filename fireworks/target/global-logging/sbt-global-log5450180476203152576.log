@@ -1,0 +1,30 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(15bd8977-51df-4bbd-aa5f-50fbeebf6c35), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 2 Scala sources to /home/savely/scala-miscellanea/fireworks/target/scala-3.0.0/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /home/savely/scala-miscellanea/fireworks/src/main/scala/fireworks/Fireworks.scala:37:12 -----------------------------------------------------------------------------------------------------------------------[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m37 |[0m    [33mcase[0m f: Done => Done[0m
+[0m[[0m[31merror[0m] [0m[0m   |            [31m^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |            Not found: type Done[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /home/savely/scala-miscellanea/fireworks/src/main/scala/fireworks/Fireworks.scala:38:26 -----------------------------------------------------------------------------------------------------------------------[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m38 |[0m    [33mcase[0m other   => other.next()[0m
+[0m[[0m[31merror[0m] [0m[0m   |                    [31m^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                    value next is not a member of fireworks.Firework - did you mean other.wait?[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E050] Type Error: /home/savely/scala-miscellanea/fireworks/src/main/scala/fireworks/Fireworks.scala:162:63 ---------------------------------------------------------------------------------------------------------------------------[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m162 |[0m                       [33melse[0m Exploding(countDown - [31m1[0m, particles.next())[0m
+[0m[[0m[31merror[0m] [0m[0m    |                                                     [31m^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |                                                     [33mmethod[0m [35mnext[0m in [33mclass[0m [35mParticles[0m does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /home/savely/scala-miscellanea/fireworks/src/main/scala/fireworks/Fireworks.scala:212:51 ----------------------------------------------------------------------------------------------------------------------[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m212 |[0m    [33mval[0m [36mupdatedVerticalSpeed[0m: [35mDouble[0m = Motion.drag(vecticalSpeed)[0m
+[0m[[0m[31merror[0m] [0m[0m    |                                                   [31m^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |                                                   Not found: vecticalSpeed[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- Error: /home/savely/scala-miscellanea/fireworks/src/main/scala/fireworks/Fireworks.scala:216:12 ---------------------------------------------------------------------------------------------------------------------------------------[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m216 |[0m    Particle(updatedHorizontalSpeed, updatedVerticalSpeed, updatedPosition)[0m
+[0m[[0m[31merror[0m] [0m[0m    |    [31m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |    missing argument for parameter color of [33mmethod[0m [35mapply[0m in [33mobject[0m [35mParticle[0m: (horizontalSpeed: Double, verticalSpeed: Double, position: doodle.core.Point, color: doodle.core.Color): fireworks.Particle[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 15 s, completed Jan 4, 2022 1:55:42 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m

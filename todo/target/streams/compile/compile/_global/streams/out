@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /home/savely/todo/src/main/scala/todo/PersistentModel.scala:142:37 ----------------------[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m142 |[0m    Tags([33mthis[0m.tasks.toList.flatMap(_.tags).distinct)[0m
+[0m[[0m[31merror[0m] [0m[0m    |                                   [31m^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m    |                     value tags is not a member of (todo.data.Id, todo.data.Task) - did you mean _$4.tail?[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
